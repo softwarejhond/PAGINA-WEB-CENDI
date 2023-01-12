@@ -9,11 +9,9 @@
 							LIBERTAD"</h5>
 
 						<div class="social pt-1">
-							<a href="https://es-la.facebook.com/InstitutoCENDI/"><i
-									class="fa fa-facebook-square"></i></a>
-							<a href="https://www.instagram.com/cendi.medellin/?hl=es-la"><i
-									class="fa fa-instagram"></i></a>
-							<a href="https://www.hablemosdenegocios.com.co/details.php?nik=467"><i class="fa fa-youtube"></i></a>
+							<a href="https://es-la.facebook.com/InstitutoCENDI/"><i class="fa fa-facebook-square"></i></a>
+							<a href="https://www.instagram.com/cendi.medellin/?hl=es-la"><i class="fa fa-instagram"></i></a>
+							<a href="https://api.whatsapp.com/send/?phone=573128785556&text=Me+gustar%C3%ADa+saber+sobre+alg%C3%BAn+programa&type=phone_number&app_absent=0"><i class="fa fa-whatsapp"></i></a>
 						</div>
 					</div>
 				</div>
