@@ -8,7 +8,7 @@
 			<div class="header-info">
 				<div class="hf-item">
 					<i class="fa fa-phone" style="color: red;"></i>
-					<p><span>Teléfono:</span>+57 (4) 444 18 08<br>+57 (4) 239 98 15</p>
+					<p><span>Teléfono:</span>+57 604 444 18 08</p>
 					
 				</div>
 				<div class="hf-item">
