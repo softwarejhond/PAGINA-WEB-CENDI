@@ -1,7 +1,7 @@
 <header class="header-section">
 		<div class="container">
 			<!-- logo -->
-			<a href="index.html" class="site-logo"><img src="img/icons/logoNew.png" alt="Logo" width="300px"></a>
+			<a href="index.html" class="site-logo"><img src="img/icons/logoNew.png" alt="Logo" width="200px"></a>
 			<div class="nav-switch">
 				<i class="fa fa-bars"></i>
 			</div>
