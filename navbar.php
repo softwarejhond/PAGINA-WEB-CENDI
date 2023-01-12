@@ -9,17 +9,17 @@
 				<a href="PORTAFOLIO WEB CENDI/index.html" title="Portafolio"><i class="fa fa-book"></i></a>
 			</div>
 			<ul class="main-menu">
-				<li class="active"><a href="index.html">INICIO</a></li>
+				<li class="active"><a href="index.php">INICIO</a></li>
 				<li class="nav-item dropdown">
 					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
 						data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 						INSTITUCIÓN
 					</a>
 					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-						<a class="dropdown-item" href="nosotros.html">Corporación CENDI</a>
-						<a class="dropdown-item" href="politicasDeCalidad.html">Políticas de calidad</a>
-						<a class="dropdown-item" href="trabajeConNosotros.html">Trabaje con nosotros</a>
-						<a class="dropdown-item" href="TramiteActualizacion.html">Trámite actualización régimen
+						<a class="dropdown-item" href="nosotros.php">Corporación CENDI</a>
+						<a class="dropdown-item" href="politicasDeCalidad.php">Políticas de calidad</a>
+						<a class="dropdown-item" href="trabajeConNosotros.php">Trabaje con nosotros</a>
+						<a class="dropdown-item" href="TramiteActualizacion.php">Trámite actualización régimen
 							tributario especial</a>
 						<a class="dropdown-item" href="/DOCS/MANUAL DE CONVIVENCIA ACTUALIZADO 2020.pdf"
 							download="Manual de convicencia CENDI 2020 Bachiller">Manual de convivencia Bachillerato</a>
