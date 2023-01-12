@@ -1,267 +1,19 @@
 <!DOCTYPE html>
 <html lang="es">
 
-<head>
-	<title>.:CORPORACIÓN CENDI:.</title>
-	<meta charset="UTF-8">
-	<meta name="author" content="Jhon Darwin Aceevedo | Agencia de Desarrollo Eagle Software">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="keywords" content="HTML, CSS, JavaScript">
-	<meta name="description" content="NUESTROS PROGRAMAS: El programa Técnico Laboral, cuenta con un total de 1.200 horas, distribuidas en tres niveles de formación: 50% teórico (600 horas) y 50% prácticas (600 horas). Las horas prácticas serán de cumplimiento en las instituciones en que se tenga convenio.">
-	<!-- Icono de pestaña -->
-	<link href="img/icons/logoNew.png" rel="shortcut icon" />
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
-		integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-
-	<!-- Google Fonts -->
-	<link href="https://fonts.googleapis.com/css?family=Rubik:400,400i,500,500i,700,700i" rel="stylesheet">
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
-		integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
-		integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
-		crossorigin="anonymous"></script>
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
-		integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
-		crossorigin="anonymous"></script>
-	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
-		integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
-		crossorigin="anonymous"></script>
-	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
-		integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
-		crossorigin="anonymous"></script>
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js"
-		integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s"
-		crossorigin="anonymous"></script>
-	<!-- Stylesheets -->
-	<link rel="stylesheet" href="css/bootstrap.min.css" />
-	<link rel="stylesheet" href="css/font-awesome.min.css" />
-	<link rel="stylesheet" href="css/themify-icons.css" />
-	<link rel="stylesheet" href="css/magnific-popup.css" />
-	<link rel="stylesheet" href="css/animate.css" />
-	<link rel="stylesheet" href="css/owl.carousel.css" />
-	<link rel="stylesheet" href="css/style.css?v=1" />
-	<!-- Importamos libreria de JQuery -->
-	<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
-	<!-- Script para abrir modal automaticamente inicia -->
-	<script>
-		$(document).ready(function () {
-			$("#myModal").modal();
-		});
-
-	</script>
-	<style>
-		body {
-			margin: 0;
-			height: 2000px;
-		}
-
-		.icon-bar {
-			position: fixed;
-			top: 50%;
-			-webkit-transform: translateY(-50%);
-			-ms-transform: translateY(-50%);
-			transform: translateY(-50%);
-		}
-
-		.icon-bar a {
-			display: block;
-			text-align: center;
-			padding: 16px;
-			transition: all 0.3s ease;
-			color: white;
-			font-size: 20px;
-		}
-
-		.icon-bar a:hover {
-			background-color: #000;
-		}
-
-		.facebook {
-			background: #3B5998;
-			color: white;
-		}
-
-		.instagram {
-			background: #007bb5;
-			color: white;
-		}
-
-		.whhatsapp {
-			background: #00bb2d;
-			color: white;
-		}
-
-		.content {
-			margin-left: 75px;
-			font-size: 30px;
-		}
-	</style>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161219819-1"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag() { dataLayer.push(arguments); }
-		gtag('js', new Date());
-
-		gtag('config', 'UA-161219819-1');
-
-	</script>
-	<style>
-		.botones-flotantes {
-			right: 10px;
-			display: flex;
-			/* height: 100vh; */
-			align-items: center;
-			position: fixed;
-			flex-direction: column;
-			justify-content: center;
-			width: 180px;
-			top: 40%;
-			/* left: 50%; */
-			margin-top: -100px;
-			/* margin-left: -250px; */
-
-		}
-		
-		.botones-flotantes a {
-			display: block;
-			padding: 1rem;
-			text-decoration: none !important;
-			color: #ffffff !important;
-			background: #0088ff;
-			font-size: 12px;
-			font-weight: bold;
-			text-align: left;
-			margin-bottom: .5rem;
-			width: 100%;
-			box-sizing: border-box;
-			position: relavite;
-
-		}
-	</style>
-	
-	<!-- Start of HubSpot Embed Code  chat-->
-	<script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/21270719.js"></script>
-	<!-- End of HubSpot Embed Code chat -->
-</head>
+<?php include 'head.php'; ?>
 
 <body>
 
 	<!-- Pagina de logeo -->
 
 	<!-- Seccion de encabezado inicia-->
-	<header class="header-section">
-		<div class="container">
-
-			<!-- logo -->
-			<a href="index.html" class="site-logo"><img src="img/icons/navidad.gif" alt="Logo" width="300px"></a>
-			<div class="nav-switch">
-				<i class="fa fa-bars"></i>
-			</div>
-			<div class="header-info">
-				<div class="hf-item">
-					<i class="fa fa-phone" style="color: red;"></i>
-					<p><span>Teléfono:</span>+57 (4) 444 18 08</p>
-
-				</div>
-				<div class="hf-item">
-					<i class="fa fa-map-marker" style="color: red;"></i>
-					<p><span>Dirección:</span>Carrera 42 No.49 – 59</p>
-				</div>
-				<div class="hf-item">
-					<a href="https://wa.me/573128785556?text=Hola%20CENDI">
-						<i class="fa fa-whatsapp" style="color: red;"></i>
-					</a>
-					<p><span>WhatsApp:</span>+57 312 878 5556</p>
-				</div>
-
-			</div>
-
-		</div>
-	</header>
+	<?php include 'header.php';?>
 	<!-- Seccion de encabezado finaliza-->
 	<br><br>
 
 	<!-- Menu encabezado inicia -->
-	<nav class="nav-section">
-		<div class="container">
-			<div class="nav-right">
-				<a href="https://es-la.facebook.com/InstitutoCENDI/" style="cursor: pointer;"><i
-						class="fa fa-facebook"></i></a>
-				<a href="https://www.instagram.com/cendi.medellin/?hl=es-la" style="cursor: pointer;"><i
-						class="fa fa-instagram"></i></a>
-				<a href="" style="cursor: pointer;"><i class="fa fa-youtube"></i></a>
-				<a href="PORTAFOLIO WEB CENDI/index.html" title="Portafolio"><i class="fa fa-book"></i></a>
-			</div>
-			<ul class="main-menu">
-				<li class="active"><a href="index.html">INICIO</a></li>
-				<li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-						data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-						INSTITUCIÓN
-					</a>
-					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-						<a class="dropdown-item" href="nosotros.html">Corporación CENDI</a>
-						<a class="dropdown-item" href="politicasDeCalidad.html">Políticas de calidad</a>
-						<a class="dropdown-item" href="trabajeConNosotros.html">Trabaje con nosotros</a>
-						<a class="dropdown-item" href="TramiteActualizacion.html">Trámite actualización régimen
-							tributario especial</a>
-						<a class="dropdown-item" href="/DOCS/MANUAL DE CONVIVENCIA ACTUALIZADO 2020.pdf"
-							download="Manual de convicencia CENDI 2020 Bachiller">Manual de convivencia Bachillerato</a>
-						<a class="dropdown-item" href="/DOCS/MA04 Manual de Convivencia - Versión 6.pdf"
-							download="Manual de convicencia CENDI 2020 Tecnicos">Manual de convivencia Técnicos</a>
-					</div>
-				</li>
-				<li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-						data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-						PROGRAMAS TÉCNICOS
-					</a>
-					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-						<a class="dropdown-item" href="auxiliarContable.html">Auxiliar Contable</a>
-						<a class="dropdown-item" href="auxiliarAdm.html">Auxiliar Administrativo</a>
-						<a class="dropdown-item" href="auxiliarMedico.html">Auxiliar en Secretariado Médico</a>
-						<a class="dropdown-item" href="auxiliarSecretariado.html">Auxiliar en Secretariado Gerencial</a>
-						<a class="dropdown-item" href="auxiliarRecursoHumanos.html">Auxiliar en Recursos Humanos</a>
-						<a class="dropdown-item" href="auxiliarFarmaceutico.html">Auxiliar en Servicios
-							Farmacéuticos</a>
-						<a class="dropdown-item" href="auxiliarSalud.html">Auxiliar en Administrativo en Salud</a>
-						<a class="dropdown-item" href="auxiliarServicioCliente.html">Auxiliar en Servicio al Cliente y
-							Telemercadeo</a>
-						<a class="dropdown-item" href="auxiliarSistemas.html">Auxiliar en Sistemas</a>
-					</div>
-				</li>
-				<li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-						data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-						MATERIAL DE APOYO
-					</a>
-					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-						<a class="dropdown-item" href="materialApoyoTecnicos.html">Material de apoyo para técnicos</a>
-						<a class="dropdown-item" href="materialApoyoBachillerato.html">Material de apoyo para
-							bachillerato</a>
-					</div>
-				</li>
-				<li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-						data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-						SEMINARIOS
-					</a>
-					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-						<a class="dropdown-item" href="soporteVital.html">Primeros Auxilios - Soporte vital básico</a>
-						<a class="dropdown-item" href="tics.html">Tic´s</a>
-						<a class="dropdown-item" href="facturacionSalud.html">Facturación en Salud</a>
-						<a class="dropdown-item" href="aseoDomestico.html">Técnicas de aseo doméstico</a>
-						<a class="dropdown-item" href="sgsst.html">SG-SST</a>
-						<a class="dropdown-item" href="manejoNomina.html">Manejo de nómina y seguridad social</a>
-						<a class="dropdown-item" href="manejoCliente.html">Manejo de clientes con dificultades, quejas y
-							reclamos</a>
-					</div>
-				</li>
-				<li><a href="contact.html">CONTÁCTENOS</a></li>
-			</ul>
-		</div>
-	</nav>
+<?php include 'navbar.php';?>
 	<!-- Menu encabezado finaliza-->
 
 
@@ -395,7 +147,7 @@
 					<div class="service-content">
 						<h4>Técnico Laboral como Auxiliar contable</h4>
 						<p style="text-align: justify;">¡Consulta por más información ahora!</p>
-						<a href="auxiliarContable.html" class="event-readmore" title="Dar click">VER MÁS <i
+						<a href="auxiliarContable.php" class="event-readmore" title="Dar click">VER MÁS <i
 								class="fa fa-angle-double-right" style="color: red;"></i></a>
 					</div>
 				</div>
@@ -406,7 +158,7 @@
 					<div class="service-content">
 						<h4>Técnico Laboral como Auxiliar Administrativo</h4>
 						<p style="text-align: justify;">¡Consulta por más información ahora!</p>
-						<a href="auxiliarAdm.html" class="event-readmore" title="Dar click">VER MÁS <i
+						<a href="auxiliarAdm.php" class="event-readmore" title="Dar click">VER MÁS <i
 								class="fa fa-angle-double-right" style="color: red;"></i></a>
 					</div>
 				</div>
@@ -417,7 +169,7 @@
 					<div class="service-content">
 						<h4>Técnico Laboral como Auxiliar en Secretariado Médico</h4>
 						<p style="text-align: justify;">¡Consulta por más información ahora!</p>
-						<a href="auxiliarMedico.html" class="event-readmore" title="Dar click">VER MÁS <i
+						<a href="auxiliarMedico.php" class="event-readmore" title="Dar click">VER MÁS <i
 								class="fa fa-angle-double-right" style="color: red;"></i></a>
 					</div>
 				</div>
@@ -428,7 +180,7 @@
 					<div class="service-content">
 						<h4>Técnico Laboral como Auxiliar en Secretariado Gerencial</h4>
 						<p style="text-align: justify;">¡Consulta por más información ahora!</p>
-						<a href="auxiliarSecretariado.html" class="event-readmore" title="Dar click">VER MÁS <i
+						<a href="auxiliarSecretariado.php" class="event-readmore" title="Dar click">VER MÁS <i
 								class="fa fa-angle-double-right" style="color: red;"></i></a>
 					</div>
 				</div>
@@ -439,7 +191,7 @@
 					<div class="service-content">
 						<h4>Técnico Laboral como Auxiliar en Recursos Humanos</h4>
 						<p style="text-align: justify;">¡Consulta por más información ahora!</p>
-						<a href="auxiliarRecursoHumanos.html" class="event-readmore" title="Dar click">VER MÁS <i
+						<a href="auxiliarRecursoHumanos.php" class="event-readmore" title="Dar click">VER MÁS <i
 								class="fa fa-angle-double-right" style="color: red;"></i></a>
 					</div>
 				</div>
@@ -450,7 +202,7 @@
 					<div class="service-content">
 						<h4>Técnico Laboral como Auxiliar en Servicios Farmacéuticos</h4>
 						<p style="text-align: justify;">¡Consulta por más información ahora!</p>
-						<a href="auxiliarFarmaceutico.html" class="event-readmore" title="Dar click">VER MÁS <i
+						<a href="auxiliarFarmaceutico.php" class="event-readmore" title="Dar click">VER MÁS <i
 								class="fa fa-angle-double-right" style="color: red;"></i></a>
 					</div>
 				</div>
@@ -461,7 +213,7 @@
 					<div class="service-content">
 						<h4>Técnico Laboral Auxiliar en Administrativo en Salud</h4>
 						<p style="text-align: justify;">¡Consulta por más información ahora!</p>
-						<a href="auxiliarSalud.html" class="event-readmore" title="Dar click">VER MÁS <i
+						<a href="auxiliarSalud.php" class="event-readmore" title="Dar click">VER MÁS <i
 								class="fa fa-angle-double-right" style="color: red;"></i></a>
 					</div>
 				</div>
@@ -472,7 +224,7 @@
 					<div class="service-content">
 						<h4>Técnico Laboral como Auxiliar en Servicio al Cliente y Telemercadeo</h4>
 						<p style="text-align: justify;"> ¡Consulta por más información ahora!</p>
-						<a href="auxiliarServicioCliente.html" class="event-readmore" title="Dar click">VER MÁS <i
+						<a href="auxiliarServicioCliente.php" class="event-readmore" title="Dar click">VER MÁS <i
 								class="fa fa-angle-double-right" style="color: red;"></i></a>
 					</div>
 				</div>
@@ -484,7 +236,7 @@
 					<div class="service-content">
 						<h4>Técnico Laboral en Programas informáticos y de sistemas </h4>
 						<p style="text-align: justify;">¡Consulta por más información ahora!</p>
-						<a href="auxiliarSistemas.html" class="event-readmore" title="Dar click">VER MÁS <i
+						<a href="auxiliarSistemas.php" class="event-readmore" title="Dar click">VER MÁS <i
 								class="fa fa-angle-double-right" style="color: red;"></i></a>
 					</div>
 				</div>
@@ -495,7 +247,7 @@
 					<div class="service-content">
 						<h4>Técnico Laboral como Empleado de Recepción Hotelera</h4>
 						<p style="text-align: justify;">¡Consulta por más información ahora!</p>
-						<a href="recepcionhotelera.html" class="event-readmore" title="Dar click">VER MÁS <i
+						<a href="recepcionhotelera.php" class="event-readmore" title="Dar click">VER MÁS <i
 								class="fa fa-angle-double-right" style="color: red;"></i></a>
 					</div>
 				</div>
@@ -506,7 +258,7 @@
 					<div class="service-content">
 						<h4>Técnico Laboral como Asistente en Desarrollo de Software</h4>
 						<p style="text-align: justify;">¡Consulta por más información ahora!</p>
-						<a href="desarrollosoftware.html" class="event-readmore" title="Dar click">VER MÁS <i
+						<a href="desarrollosoftware.php" class="event-readmore" title="Dar click">VER MÁS <i
 								class="fa fa-angle-double-right" style="color: red;"></i></a>
 					</div>
 				</div>
@@ -517,23 +269,8 @@
 					<div class="service-content">
 						<h4>Conocimientos Académicos en inglés</h4>
 						<p style="text-align: justify;">¡Consulta por más información ahora!</p>
-						<a href="ingles.html" class="event-readmore" title="Dar click">VER MÁS <i
+						<a href="ingles.php" class="event-readmore" title="Dar click">VER MÁS <i
 								class="fa fa-angle-double-right" style="color: red;"></i></a>
-					</div>
-				</div>
-				<div class="col-lg-4 col-sm-6 service-item">
-					<div class="service-icon">
-						<img src="img/icons/LogoQ10_SOlO.png" alt="Q10" title="Ingresa al Q10 Académico" width="200px">
-					</div>
-					<div class="service-content">
-						<a
-							href="https://site2.q10.com/login?ReturnUrl=%2F&aplentId=c866b1f7-b5a4-4146-a6d5-eda3de6bdea9">
-							<h4 title="Ingresar al Q10 Académico">Plataforma Q10 Académico</h4>
-						</a>
-						<p>Consulta, actualiza e interactua con el Q10 Académico</p>
-						<a href="https://site2.q10.com/login?ReturnUrl=%2F&aplentId=c866b1f7-b5a4-4146-a6d5-eda3de6bdea9"
-							data-target="#preBach" title="Dar click">VER MÁS <i class="fa fa-angle-double-right"
-								style="color: red;"></i></a>
 					</div>
 				</div>
 
@@ -896,86 +633,7 @@
 	<!-- Seccion de convenios finaliza-->
 
 	<!-- Footer section -->
-	<footer class="footer-section">
-		<div class="container footer-top">
-			<div class="row">
-				<!-- widget -->
-				<div class="col-sm-6 col-lg-3 footer-widget">
-					<div class="about-widget" style="text-align: center;">
-						<img src="img/icons/cendi.png" alt="logo" width="50%%">
-						<h5 style="color: white;text-align: center;">"EDUCANDO EN LA RESPONSABILIDAD, EDUCAMOS PARA LA
-							LIBERTAD"</h5>
-
-						<div class="social pt-1">
-							<a href="https://es-la.facebook.com/InstitutoCENDI/"><i
-									class="fa fa-facebook-square"></i></a>
-							<a href="https://www.instagram.com/cendi.medellin/?hl=es-la"><i
-									class="fa fa-instagram"></i></a>
-							<a href="https://www.hablemosdenegocios.com.co/details.php?nik=467"><i class="fa fa-youtube"></i></a>
-						</div>
-					</div>
-				</div>
-				<!-- widget -->
-
-				<!-- widget -->
-				<div class="col-sm-6 col-lg-6 footer-widget">
-					<h6 class="fw-title">BREVE HISTORIA</h6>
-					<ul class="recent-post">
-						<li>
-							<p style="text-align: justify;">La institución fue fundada en el año de 1988, la idea partió
-								de un diagnóstico
-								de necesidades de la comunidad.
-								Estas inquietudes fueron madurando a través de charlas y grupos de estudio con otras
-								personas vinculadas a
-								la educación y nació así la idea de fundar una institución de enseñanza de Validación de
-								Bachillerato y
-								programas técnicos. La institución inició labores en enero de 1988, con experiencia en
-								trabajo de Validación
-								del Bachillerato con Prueba Única ante el ICFES y programas de Actitud Ocupacional hoy
-								llamados programas
-								Técnicos de Formación para el trabajo y el desarrollo humano.
-							</p>
-							<a href="nosotros.html">Leer más</a>
-
-						</li>
-
-					</ul>
-				</div>
-				<!-- widget -->
-				<div class="col-sm-6 col-lg-3 footer-widget">
-					<h6 class="fw-title">CONTÁCTENOS</h6>
-					<ul class="contact">
-						<li>
-							<p><i class="fa fa-map-marker"></i> Carrera 42 No.49 – 59</p>
-						</li>
-						<li>
-							<p><i class="fa fa-phone"></i> +57 (4) 444 18 08</p>
-						</li>
-						<li>
-							<p><i class="fa fa-envelope"></i> mercadeo1@cendi.edu.co</p>
-						</li>
-						<li>
-							<p><i class="fa fa-whatsapp"></i> +57 312 878 5556</p>
-						</li>
-
-					</ul>
-			
-				</div>
-			</div>
-		</div>
-		<!-- copyright -->
-		<div class="copyright">
-			<div class="container">
-				<p>
-					<!-- Script auto incrementable segun el año actual inicia-->
-					Copyright &copy;
-					<script>document.write(new Date().getFullYear());</script> CENDI Todos los Derechos Reservados
-					<!-- Script auto incrementable segun el año actual finaliza-->
-				</p>
-				<p>Made by Agencia de Desarrollo Eagle Software</p>
-			</div>
-		</div>
-	</footer>
+	<?php include 'footer.php'; ?>
 	<!-- Footer section end-->
 
 
@@ -1034,8 +692,7 @@
 				style="font-size: 30px; float: left; padding-right: 10px;"></i> CAMPUS VIRTUAL</a>
 		<a href="https://moodle.cendi.fundacionview.org/" target="_blank"><i class="fa fa-android"
 				style="font-size: 30px; float: left; padding-right: 10px;"></i> APLICACIONES WEB Y ANDROID</a>
-		<a href="https://mesadeayudacendi.com" target="_blank"><i class="fas fa-headset"
-				style="font-size: 30px; float: left; padding-right: 10px;"></i> MESA DE AYUDA</a>
+
 
 	</div>
 	<!-- inicia preinscripcion tecnicos -->
