@@ -1,11 +1,10 @@
 <nav class="nav-section">
 		<div class="container">
 			<div class="nav-right">
-				<a href="https://es-la.facebook.com/InstitutoCENDI/" style="cursor: pointer;"><i
-						class="fa fa-facebook"></i></a>
-				<a href="https://www.instagram.com/cendi.medellin/?hl=es-la" style="cursor: pointer;"><i
-						class="fa fa-instagram"></i></a>
-				<a href="" style="cursor: pointer;"><i class="fa fa-youtube"></i></a>
+				<a href="https://es-la.facebook.com/InstitutoCENDI/" style="cursor: pointer;"><i class="fa fa-facebook"></i></a>
+				<a href="https://www.instagram.com/cendi.medellin/?hl=es-la" style="cursor: pointer;"><i class="fa fa-instagram"></i></a>
+				<a href="https://api.whatsapp.com/send/?phone=573128785556&text=Me+gustar%C3%ADa+saber+sobre+alg%C3%BAn+programa&type=phone_number&app_absent=0"><i class="fa fa-whatsapp"></i></a>
+						
 				<a href="PORTAFOLIO WEB CENDI/index.html" title="Portafolio"><i class="fa fa-book"></i></a>
 			</div>
 			<ul class="main-menu">
