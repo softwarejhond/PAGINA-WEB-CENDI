@@ -374,7 +374,7 @@
 						<div class="card" style="width: 18rem;">
 							<img class="card-img-top" src="img/sliders/alfabetizacion.jpg" alt="alfabetización">
 							<div class="card-body">
-								<h5 class="card-title">FORMATO DE ALFABETIZACIÓN <br>2020</h5>
+								<h5 class="card-title">FORMATO DE ALFABETIZACIÓN </h5>
 								<p class="card-text">Formato para bachillerato</p>
 								<br>
 								<a href="DOCS/formatos/alfabetizacion 2020.docx" class="btn btn-primary"><i
@@ -387,7 +387,7 @@
 						<div class="card" style="width: 18rem;">
 							<img class="card-img-top" src="img/sliders/ley.png" alt="ley">
 							<div class="card-body">
-								<h5 class="card-title">FORMATO PARA CUMPLIR LAS 50 HORAS CONSTITUCIONALES 2020</h5>
+								<h5 class="card-title">FORMATO PARA CUMPLIR LAS 50 HORAS CONSTITUCIONALES</h5>
 								<p class="card-text">Formato para bachillerato</p>
 								<a href="DOCS/formatos/constitucion politica de colombia 2020.docx"
 									class="btn btn-primary"><i class="fa fa-download"></i> DESCARGAR</a>
