@@ -133,10 +133,7 @@
 		<div class="container services">
 			<div class="section-title text-center">
 				<h3>NUESTROS PROGRAMAS</h3>
-				<p>El programa Técnico Laboral como Auxiliar Administrativo, cuenta con un total de 1.200 horas,
-					distribuidas en tres niveles de formación: 50% teórico (600 horas)
-					y 50% prácticas (600 horas). Las horas prácticas serán de cumplimiento en las instituciones en que
-					se tenga convenio.</p>
+			<br>
 			</div>
 			<div class="row">
 
@@ -167,7 +164,7 @@
 						<img src="img/icons/secretario.svg" alt="Salud">
 					</div>
 					<div class="service-content">
-						<h4>Técnico Laboral como Auxiliar en Secretariado Médico</h4>
+						<h4>Técnico Laboral en Secretaria(o) Médica (o)</h4>
 						<p style="text-align: justify;">¡Consulta por más información ahora!</p>
 						<a href="auxiliarMedico.php" class="event-readmore" title="Dar click">VER MÁS <i
 								class="fa fa-angle-double-right" style="color: red;"></i></a>
@@ -178,7 +175,7 @@
 						<img src="img/icons/secretaria.svg" alt="Salud">
 					</div>
 					<div class="service-content">
-						<h4>Técnico Laboral como Auxiliar en Secretariado Gerencial</h4>
+						<h4>Técnico Laboral como Secretaria General</h4>
 						<p style="text-align: justify;">¡Consulta por más información ahora!</p>
 						<a href="auxiliarSecretariado.php" class="event-readmore" title="Dar click">VER MÁS <i
 								class="fa fa-angle-double-right" style="color: red;"></i></a>
@@ -200,7 +197,7 @@
 						<img src="img/icons/farmaceutico.svg" alt="Salud">
 					</div>
 					<div class="service-content">
-						<h4>Técnico Laboral como Auxiliar en Servicios Farmacéuticos</h4>
+						<h4>Técnico Laboral Auxiliar en Servicios Farmacéuticos</h4>
 						<p style="text-align: justify;">¡Consulta por más información ahora!</p>
 						<a href="auxiliarFarmaceutico.php" class="event-readmore" title="Dar click">VER MÁS <i
 								class="fa fa-angle-double-right" style="color: red;"></i></a>
@@ -211,7 +208,7 @@
 						<img src="img/icons/salud.svg" alt="Salud">
 					</div>
 					<div class="service-content">
-						<h4>Técnico Laboral Auxiliar en Administrativo en Salud</h4>
+						<h4>Técnico Laboral Auxiliar Administrativo en Salud</h4>
 						<p style="text-align: justify;">¡Consulta por más información ahora!</p>
 						<a href="auxiliarSalud.php" class="event-readmore" title="Dar click">VER MÁS <i
 								class="fa fa-angle-double-right" style="color: red;"></i></a>
@@ -234,7 +231,7 @@
 						<img src="img/icons/computer.svg" alt="sistemas">
 					</div>
 					<div class="service-content">
-						<h4>Técnico Laboral en Programas informáticos y de sistemas </h4>
+						<h4>Técnico laboral como auxiliar de sistemas informáticos </h4>
 						<p style="text-align: justify;">¡Consulta por más información ahora!</p>
 						<a href="auxiliarSistemas.php" class="event-readmore" title="Dar click">VER MÁS <i
 								class="fa fa-angle-double-right" style="color: red;"></i></a>
