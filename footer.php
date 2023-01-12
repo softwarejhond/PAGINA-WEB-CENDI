@@ -51,7 +51,7 @@
 							<p><i class="fa fa-map-marker"></i> Carrera 42 No.49 – 59</p>
 						</li>
 						<li>
-							<p><i class="fa fa-phone"></i> +57 (4) 444 18 08</p>
+							<p><i class="fa fa-phone"></i> +57 604 444 18 08</p>
 						</li>
 						<li>
 							<p><i class="fa fa-envelope"></i> mercadeo1@cendi.edu.co</p>
