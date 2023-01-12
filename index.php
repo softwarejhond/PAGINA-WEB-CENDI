@@ -459,7 +459,7 @@
 						<i class="ti-crown"></i>
 					</div>
 					<div class="fact-text">
-						<h2>32</h2>
+						<h2>34</h2>
 						<p>AÑOS</p>
 					</div>
 				</div>
