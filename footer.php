@@ -74,7 +74,7 @@
 					<script>document.write(new Date().getFullYear());</script> CENDI Todos los Derechos Reservados
 					<!-- Script auto incrementable segun el año actual finaliza-->
 				</p>
-				<p>Made by Agencia de Desarrollo Eagle Software</p>
+				<p><a href="https://agenciaeaglesoftware.com/" style="text-decoration: none;" target="_blank"> by Agencia de Desarrollo Eagle Software</a></p>
 			</div>
 		</div>
 	</footer>
