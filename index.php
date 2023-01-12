@@ -362,7 +362,7 @@
 						<div class="card" style="width: 18rem;">
 							<img class="card-img-top" src="img/sliders/practicas.jpg" alt="Practicas">
 							<div class="card-body">
-								<h5 class="card-title">CONTROL DE HORAS DE PRACTICAS PROFESIONALES</h5>
+								<h5 class="card-title">CONTROL DE HORAS DE PRÁCTICA EMPRESARIAL</h5>
 								<p class="card-text">Formato para técnicos</p>
 								<BR>
 								<a href="DOCS/formatos/FO73 CONTROL DE HORAS DE PRACTICAS EMPRESARIAL.pdf"
