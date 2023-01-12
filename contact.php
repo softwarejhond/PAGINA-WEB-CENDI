@@ -35,8 +35,7 @@
 					</div>
 					<div class="contact-info">
 						<li><h4><i class="fa fa-phone"></i> Teléfonos</h4></li>
-						<p>+57 (4) 444 18 08</p>
-						<p>+57 (4) 239 98 15</p>
+						<p>+57 604 444 18 08</p>
 					</div>
 					<div class="contact-info">
 						<li><h4><i class="fa fa-envelope"></i> Dirección</h4></li>
@@ -63,31 +62,31 @@
 							<div class="contact-info">
 								<li><h4><i class="fa fa-user"></i> Liliana Urueta Córdoba</h4></li>
 								<p><i class="fa fa-briefcase"></i> Secretaria Bachillerato</p>
-								<p><i class="fa fa-phone"></i> 444 18 08 Ext. 107</p>
+								<p><i class="fa fa-phone"></i> 604 444 18 08 Ext. 107</p>
 								<p><i class="fa fa-envelope-open"></i> secretariaacademica@cendi.edu.co</p>
 							</div>
 							<div class="contact-info">
 								<li><h4><i class="fa fa-user"></i> Mariluz Gaviria Rico</h4></li>
 								<p><i class="fa fa-briefcase"></i> Tesoreria</p>
-								<p><i class="fa fa-phone"></i> 444 18 08 Ext. 103</p>
+								<p><i class="fa fa-phone"></i> 604 444 18 08 Ext. 103</p>
 								<p><i class="fa fa-envelope-open"></i> inversaludcendi@hotmail.com</p>
 							</div>
 							<div class="contact-info">
 								<li><h4><i class="fa fa-user"></i> Solanlly Andrea Zuluaga Restrepo</h4></li>
 								<p><i class="fa fa-briefcase"></i> Coordinación Municipios</p>
-								<p><i class="fa fa-phone"></i> 444 18 08 Ext. 120</p>
+								<p><i class="fa fa-phone"></i> 604 444 18 08 Ext. 120</p>
 								<p><i class="fa fa-envelope-open"></i> coordinacionmunicipioscendi@cendi.edu.co</p>
 							</div>
 							<div class="contact-info">
 								<li><h4><i class="fa fa-user"></i> Rubiela Mejia Soto</h4></li>
 								<p><i class="fa fa-briefcase"></i> Coordinación Castilla</p>
-								<p><i class="fa fa-phone"></i> 477 31 09</p>
+								<p><i class="fa fa-phone"></i> 604 477 31 09</p>
 								<p><i class="fa fa-envelope-open"></i> cendicastilla@gmail.com</p>
 							</div>
 							<div class="contact-info">
 								<li><h4><i class="fa fa-user"></i> Jaime Castañeda</h4></li>
 								<p><i class="fa fa-briefcase"></i> Secretario Castilla</p>
-								<p><i class="fa fa-phone"></i> 477 31 09</p>
+								<p><i class="fa fa-phone"></i> 604 477 31 09</p>
 								<p><i class="fa fa-envelope-open"></i> cendicastilla@gmail.com</p>
 							</div>
 							
@@ -96,7 +95,7 @@
 							<div class="contact-info">
 								<li><h4><i class="fa fa-user"></i> Luz Miriam Hernández</h4></li>
 								<p><i class="fa fa-briefcase"></i> Rectoría Técnicos</p>
-								<p><i class="fa fa-phone"></i> 444 18 08 Ext. 117</p>
+								<p><i class="fa fa-phone"></i> 604 444 18 08 Ext. 117</p>
 								<p><i class="fa fa-envelope-open"></i> rectoriatecnicos@cendi.edu.co</p>
 								<p><i class="fa fa-envelope-open"></i> coordinaciontecnicos@cendi.edu.co</p>
 							</div>
@@ -105,21 +104,21 @@
 								<p><i class="fa fa-briefcase"></i> Secretaria Técnicos
 									Gestión Empresarial
 									Prácticas Empresariales</p>
-								<p><i class="fa fa-phone"></i> 444 18 08 Ext. 108</p>
+								<p><i class="fa fa-phone"></i> 604 444 18 08 Ext. 108</p>
 								<p><i class="fa fa-envelope-open"></i> rectoriatecnicos@cendi.edu.co</p>
 								<p><i class="fa fa-envelope-open"></i> coordinaciontecnicos@cendi.edu.co</p>
 							</div>
 							<div class="contact-info">
 								<li><h4><i class="fa fa-user"></i> Ricaurte de Jesús Vásquez Varela</h4></li>
 								<p><i class="fa fa-briefcase"></i> Coordinación Bachillerato</p>
-								<p><i class="fa fa-phone"></i> 444 18 08 Ext. 114</p>
+								<p><i class="fa fa-phone"></i> 604 444 18 08 Ext. 114</p>
 								<p><i class="fa fa-envelope-open"></i> rectoria@cendi.edu.co</p>
 								
 							</div>
 							<div class="contact-info">
 								<li><h4><i class="fa fa-user"></i> Edwin Alberto Cárdenas Montoya</h4></li>
 								<p><i class="fa fa-briefcase"></i> Compras</p>
-								<p><i class="fa fa-phone"></i> 444 18 08 Ext. 123</p>
+								<p><i class="fa fa-phone"></i> 604 444 18 08 Ext. 123</p>
 								<p><i class="fa fa-envelope-open"></i> compraseinfraestructura@cendi.edu.co</p>
 								
 							</div>
