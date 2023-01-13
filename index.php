@@ -623,6 +623,20 @@
                         </div>
                     </div>
                 </div>
+				<div class="col-md-6 col-lg-3">
+                    <div class="member">
+                        <div class="member"><img src="img/icons/domina.png" alt="Domina">
+
+                        </div>
+                    </div>
+                </div>
+				<div class="col-md-6 col-lg-3">
+                    <div class="member">
+                        <div class="member"><img src="img/icons/clinicaNorte.png" alt="Fundación Clinica del Norte">
+
+                        </div>
+                    </div>
+                </div>
 
             </div>
         </div>
