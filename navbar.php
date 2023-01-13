@@ -48,7 +48,7 @@
                         <a class="dropdown-item" href="ingles.php">Conocimientos Académicos en inglés</a>
 					</div>
 				</li>
-				<li class="nav-item dropdown">
+				<!--<li class="nav-item dropdown">
 					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
 						data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 						MATERIAL DE APOYO
@@ -58,7 +58,7 @@
 						<a class="dropdown-item" href="materialApoyoBachillerato.php">Material de apoyo para
 							bachillerato</a>
 					</div>
-				</li>
+				</li>-->
 				<li class="nav-item dropdown">
 					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
 						data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

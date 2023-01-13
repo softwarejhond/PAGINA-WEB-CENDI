@@ -401,7 +401,7 @@
 							<div class="card-body">
 								<h5 class="card-title">FORMATO DE NIVELACIÓN DE NOTAS</h5>
 								<p class="card-text">Formato para bachillerato</p>
-								<br><br>
+								<br>
 								<a href="DOCS/formatos/NIVELACIÓN NOTAS.pdf" class="btn btn-primary"><i
 										class="fa fa-download"></i> DESCARGAR</a>
 
@@ -414,7 +414,7 @@
 							<div class="card-body">
 								<h5 class="card-title">FORMATO DE EXCUSA POR NO ASISTIR A CLASE</h5>
 								<p class="card-text">Formato para bachillerato</p>
-								<br><br>
+								<br>
 								<a href="DOCS/formatos/EXCUSA.pdf" class="btn btn-primary"><i
 										class="fa fa-download"></i> DESCARGAR</a>
 
