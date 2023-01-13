@@ -10,70 +10,7 @@
 	<br><br>
 
 	<!-- Menu encabezado inicia -->
-	<nav class="nav-section">
-		<div class="container">
-			<div class="nav-right">
-				<a href=""><i class="fa fa-facebook"></i></a>
-				<a href=""><i class="fa fa-instagram"></i></a>
-				<a href=""><i class="fa fa-youtube"></i></a>
-				<a href="#" data-toggle="modal" data-target="#login" title="Iniciar sesión administrativos"><i class="fa fa-user"></i></a>
-			</div>
-			<ul class="main-menu">
-				<li><a href="index.html">INICIO</a></li>
-				<li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-						INSTITUCIÓN
-					</a>
-					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-					  <a class="dropdown-item" href="nosotros.html">Corporación CENDI</a>
-					  <a class="dropdown-item" href="politicasDeCalidad.html">Políticas de calidad</a>
-					  <a class="dropdown-item" href="trabajeConNosotros.html">Trabaje con nosotros</a>
-					  <a class="dropdown-item" href="TramiteActualizacion.html">Trámite actualización régimen tributario especial</a>
-					</div>
-				  </li>
-				  <li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-						PROGRAMAS TÉCNICOS
-					</a>
-					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-						<a class="dropdown-item" href="auxiliarContable.html">Auxiliar Contable</a>
-						<a class="dropdown-item" href="auxiliarAdm.html">Auxiliar Administrativo</a>
-						<a class="dropdown-item" href="auxiliarMedico.html">Técnico laboral como secretaria (o) médica (o)</a>
-						<a class="dropdown-item" href="auxiliarSecretariado.html">Técnico laboral como secretaria (o) general</a>
-						<a class="dropdown-item" href="auxiliarRecursoHumanos.html">Auxiliar en Recursos Humanos</a>
-						<a class="dropdown-item" href="auxiliarFarmaceutico.html">Auxiliar en Servicios Farmacéuticos</a>
-						<a class="dropdown-item" href="auxiliarSalud.html">Auxiliar en Administrativo en Salud</a>
-						<a class="dropdown-item" href="auxiliarServicioCliente.html">Auxiliar en Servicio al Cliente y Telemercadeo</a>
-						<a class="dropdown-item" href="auxiliarSistemas.html">Técnico laboral como auxiliar de sistemas informáticos</a>
-					</div>
-				  </li>
-				  <li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-						MATERIAL DE APOYO
-					</a>
-					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-						<a class="dropdown-item" href="materialApoyoTecnicos.html">Material de apoyo para técnicos</a>
-						<a class="dropdown-item" href="materialApoyoBachillerato.html">Material de apoyo para bachillerato</a>
-					</div>
-				  </li>
-				<li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-						SEMINARIOS
-					</a>
-					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-						<a class="dropdown-item" href="soporteVital.html">Primeros Auxilios - Soporte vital básico</a>
-					  <a class="dropdown-item" href="tics.html">Tic´s</a>
-					  <a class="dropdown-item" href="facturacionSalud.html">Facturación en Salud</a>
-					  <a class="dropdown-item" href="aseoDomestico.html">Técnicas de aseo doméstico</a>
-					  <a class="dropdown-item" href="sgsst.html">SG-SST</a>
-					  <a class="dropdown-item" href="manejoNomina.html">Manejo de nómina y seguridad social</a>
-					  <a class="dropdown-item" href="manejoCliente.html">Manejo de clientes con dificultades, quejas y reclamos</a>
-					</div>
-				  </li>
-				<li><a href="contact.html">CONTÁCTENOS</a></li>
-			</ul>
-		</div>
-	</nav>
+	<?php include 'navbar.php';?>
 	<!-- Menu encabezado finaliza-->
 
 	<!-- Breadcrumb section -->
