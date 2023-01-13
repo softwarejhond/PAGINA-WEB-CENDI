@@ -95,7 +95,7 @@
 					<div class="post-item">
                         <h4>Técnico Laboral como Empleado de Recepción Hotelera</h4>
                         <br>
-                        <div class="post-thumb set-bg" data-setbg="img/sliders/Hotelera.png"></div>
+                        <div class="post-thumb set-bg" data-setbg="img/sliders/hotelera.png"></div>
                         <br>
                         <h5 style="text-align: center;">Lic. de Funcionamiento N° 05293 de Junio 25 de 2009<br>
                             Lic. de Funcionamiento N° 201750021377 de Diciembre 19 de 2017 Resolución de la Secretaria de Educación: <br>N°202150177931 DE 22/11/2021</h5>
