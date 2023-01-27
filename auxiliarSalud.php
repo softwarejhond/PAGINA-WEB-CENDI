@@ -94,52 +94,51 @@
                                             <h3>MÓDULOS BÁSICOS:</h3>
                                             <ul class="about-list">
                                                 <i class="fa fa-check-square-o" style="color: red;"></i> Ética y valores.
-                                                <br>
-                                                <br>
-                                                <i class="fa fa-check-square-o" style="color: red;"></i> Técnicas de estudio.
-                                                <br>
-                                                <br>
-                                                <i class="fa fa-check-square-o" style="color: red;"></i> Tecnología de la información y la comunicación (Tics).
-                                                <br>
-                                                <br>
-                                                <i class="fa fa-check-square-o" style="color: red;"></i> Inducción a la institución educativa y valores.
-                                            </ul>
+                                             </ul>
                                         </div>
                                         <div class="tab-pane fade" id="especificos" role="tabpanel" aria-labelledby="list-settings-list"style="text-align: justify;">
                                             <h3>MÓDULOS ESPECÍFICOS:</h3>
                                             <br>
                                                 <ul class="about-list">
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Introducción del servicio en salud.
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Afiliación en Salud.
                                                     <br>
                                                     <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Admisión hospitalaria.
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Admitir al Usuario
                                                     <br>
                                                     <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Facturación del servicio en salud.
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Facturación Del Servicio en Salud.
                                                     <br>
                                                     <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Salud ocupacional y ambiental.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Manejo de valores e ingresos.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Sistema general de seguridad social en salud.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Primeros auxilios.
-                                                   
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Manejo De Valores e Ingresos.
+                                                  
                                                 </ul>
                                         </div>
                                         <div class="tab-pane fade" id="transversal" role="tabpanel" aria-labelledby="list-settings-list"style="text-align: justify;">
                                             <h3>MÓDULOS TRANSVERSAL:</h3>
                                             <br>
                                             <ul class="about-list">
-                                                <i class="fa fa-check-square-o" style="color: red;"></i> Lenguaje de ciencias médicas.
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Técnicas de Estudio.
                                                 <br>
                                                 <br>
-                                                <i class="fa fa-check-square-o" style="color: red;"></i> Asesoría de prácticas (Seminario).
-                                                
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Inducción a la Institución Educativa y Valores.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Atender y Orientar al Usuario.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Examen de Admisión no Excluyente.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Tecnología de la Información y la Comunicación (TICS).
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Salud Ocupacional.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Asesorías de Practica.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Práctica Externa.
                                             </ul>
                                         </div>
                                       </div>
