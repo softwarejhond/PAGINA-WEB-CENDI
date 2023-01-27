@@ -32,20 +32,23 @@
 						PROGRAMAS TÉCNICOS
 					</a>
 					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-						<a class="dropdown-item" href="auxiliarContable.php">Auxiliar Contable</a>
-						<a class="dropdown-item" href="auxiliarAdm.php">Auxiliar Administrativo</a>
-						<a class="dropdown-item" href="auxiliarMedico.php">Auxiliar en Secretariado Médico</a>
-						<a class="dropdown-item" href="auxiliarSecretariado.php">Auxiliar en Secretariado Gerencial</a>
-						<a class="dropdown-item" href="auxiliarRecursoHumanos.php">Auxiliar en Recursos Humanos</a>
-						<a class="dropdown-item" href="auxiliarFarmaceutico.php">Auxiliar en Servicios
-							Farmacéuticos</a>
-						<a class="dropdown-item" href="auxiliarSalud.php">Auxiliar en Administrativo en Salud</a>
-						<a class="dropdown-item" href="auxiliarServicioCliente.php">Auxiliar en Servicio al Cliente y
-							Telemercadeo</a>
-						<a class="dropdown-item" href="auxiliarSistemas.php">Auxiliar en Sistemas</a>
-                        <a class="dropdown-item" href="recepcionhotelera.php">Técnico Laboral como Empleado de Recepción Hotelera</a>
-                        <a class="dropdown-item" href="desarrolloSoftware.php">Técnico Laboral como Asistente en Desarrollo de Software</a>
-                        <a class="dropdown-item" href="ingles.php">Conocimientos Académicos en inglés</a>
+					    <label class="dropdown-item disabled text-danger" >PROGRAMAS ADMINISTRATIVOS:</label>
+						<a class="dropdown-item" href="auxiliarContable.php">Técnico Laboral como Auxiliar Contable</a>
+						<a class="dropdown-item" href="auxiliarAdm.php">Técnico Laboral como Auxiliar Administrativo</a>
+						<a class="dropdown-item" href="auxiliarMedico.php">Técnico Laboral en Secretaria(o) Médica (o)</a>
+						<a class="dropdown-item" href="auxiliarSecretariado.php">Técnico Laboral como Secretaria General</a>
+						<a class="dropdown-item" href="auxiliarRecursoHumanos.php">Técnico Laboral Auxiliar en Recursos Humanos</a>
+						<a class="dropdown-item" href="auxiliarServicioCliente.php">Técnico Laboral Auxiliar en Servicio al Cliente y Telemercadeo</a>
+						<a class="dropdown-item" href="auxiliarSistemas.php">Técnico laboral como auxiliar de sistemas informáticos</a>
+						<a class="dropdown-item" href="recepcionhotelera.php">Técnico Laboral como Empleado de Recepción Hotelera</a>
+						<a class="dropdown-item" href="desarrolloSoftware.php">Técnico Laboral como Asistente en Desarrollo de Software</a>
+						<div class="dropdown-divider"></div>
+						<label class="dropdown-item disabled text-danger" >PROGRAMAS DE SALUD:</label>
+						<a class="dropdown-item" href="auxiliarFarmaceutico.php">Técnico Laboral Auxiliar en Servicios Farmacéuticos</a>
+						<a class="dropdown-item" href="auxiliarSalud.php">Técnico Laboral Auxiliar Administrativo en Salud</a>
+						<div class="dropdown-divider"></div>
+						<label class="dropdown-item disabled text-danger " >PROGRAMA DE CONOCIMIENTOS ACADÉMICOS: </label>
+                        <a class="dropdown-item" href="ingles.php">Inglés</a>
 					</div>
 				</li>
 				<!--<li class="nav-item dropdown">
