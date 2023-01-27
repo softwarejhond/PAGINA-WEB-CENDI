@@ -51,7 +51,7 @@
                                         <a class="list-group-item list-group-item-action" id="list-messages-list" data-toggle="list" href="#duracion" role="tab" aria-controls="messages">DURACIÓN:</a>
                                         <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#basicos" role="tab" aria-controls="settings">MÓDULOS BÁSICOS</a>
                                         <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#especificos" role="tab" aria-controls="settings">MÓDULOS ESPECÍFICOS</a>
-                                        <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#transversal" role="tab" aria-controls="settings">MÓDULOS TRANSVERSAL</a>
+                                        <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#transversal" role="tab" aria-controls="settings">MÓDULOS TRANSVERSALES</a>
                                       </div>
                                     </div>
                                     <div class="col-8">
@@ -114,7 +114,7 @@
                                                 </ul>
                                         </div>
                                         <div class="tab-pane fade" id="transversal" role="tabpanel" aria-labelledby="list-settings-list"style="text-align: justify;">
-                                            <h3>MÓDULOS TRANSVERSAL:</h3>
+                                            <h3>MÓDULOS TRANSVERSALES:</h3>
                                             <br>
                                             <ul class="about-list">
                                                 <i class="fa fa-check-square-o" style="color: red;"></i> Técnicas de Estudio.

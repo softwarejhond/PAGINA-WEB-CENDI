@@ -48,7 +48,7 @@
                                         <a class="list-group-item list-group-item-action" id="list-messages-list" data-toggle="list" href="#duracion" role="tab" aria-controls="messages">DURACIÓN:</a>
                                         <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#basicos" role="tab" aria-controls="settings">MÓDULOS BÁSICOS</a>
                                         <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#especificos" role="tab" aria-controls="settings">MÓDULOS ESPECÍFICOS</a>
-                                        <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#transversal" role="tab" aria-controls="settings">MÓDULOS TRANSVERSAL</a>
+                                        <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#transversal" role="tab" aria-controls="settings">MÓDULOS TRANSVERSALES</a>
                                       </div>
                                     </div>
                                     <div class="col-8">
@@ -89,52 +89,59 @@
                                             <h3>MÓDULOS ESPECÍFICOS:</h3>
                                             <br>
                                                 <ul class="about-list">
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Estadística.<br>
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Inventarios.<br>
                                                     <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Ortografía y redacción.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Contabilidad general.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Ajustes contables.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Costos y presupuestos.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Organización documental.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Proceso administrativo.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Inventarios.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Legislación tributaria.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Matemática financiera.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Informática I.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Informática II.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Informática III.
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Ajustes Contables.
+                                                
                                                 </ul>
                                         </div>
                                         <div class="tab-pane fade" id="transversal" role="tabpanel" aria-labelledby="list-settings-list"style="text-align: justify;">
-                                            <h3>MÓDULOS TRANSVERSAL:</h3>
+                                            <h3>MÓDULOS TRANSVERSALES:</h3>
                                             <br>
                                             <ul class="about-list">
-                                                <i class="fa fa-check-square-o" style="color: red;"></i> Legislación laboral..
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Contabilidad General.
                                                 <br>
                                                 <br>
-                                                <i class="fa fa-check-square-o" style="color: red;"></i> Asesoría de práctica (Seminario).
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Estadística.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Informática I (Word, Digitación y Acces).
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Elaborar Documentos.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Matemática Financiera.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Organización Documental.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Examen de Admisión no Excluyente.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Costos y Presupuestos.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Informática II (Excel).
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Informática III (Paquete Contable).
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Legislación Laboral.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Legislación Tributaria.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Proceso Administrativo.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Asesorías de Practica.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Práctica Externa.
                                            </ul> 
                                         </div>
                                       </div>

@@ -49,7 +49,7 @@
                                         <a class="list-group-item list-group-item-action" id="list-messages-list" data-toggle="list" href="#duracion" role="tab" aria-controls="messages">DURACIÓN:</a>
                                         <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#basicos" role="tab" aria-controls="settings">MÓDULOS BÁSICOS</a>
                                         <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#especificos" role="tab" aria-controls="settings">MÓDULOS ESPECÍFICOS</a>
-                                        <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#transversal" role="tab" aria-controls="settings">MÓDULOS TRANSVERSAL</a>
+                                        <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#transversal" role="tab" aria-controls="settings">MÓDULOS TRANSVERSALES</a>
                                       </div>
                                     </div>
                                     <div class="col-8">
@@ -99,53 +99,45 @@
                                             <h3>MÓDULOS ESPECÍFICOS:</h3>
                                             <br>
                                                 <ul class="about-list">
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Informática I.<br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Informática II.
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Calidad en Salud.
                                                     <br>
                                                     <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Informática  III.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Ortografía y redacción.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Digitación (Transcripción Documental).
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Lenguaje de ciencias Médicas.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Introducción a los servicios de salud y seguridad Social.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Documentación clínica.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Calidad en salud.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Software médico.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Facturación
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Técnicas de oﬁcina y comunicación.
-                                                   
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Facturación.
+                                                    
                                                 </ul>
                                         </div>
                                         <div class="tab-pane fade" id="transversal" role="tabpanel" aria-labelledby="list-settings-list"style="text-align: justify;">
-                                            <h3>MÓDULOS TRANSVERSAL:</h3>
+                                            <h3>MÓDULOS TRANSVERSALES:</h3>
                                             <br>
                                             <ul class="about-list">
-                                                <i class="fa fa-check-square-o" style="color: red;"></i> Contabilidad general.
+                                            <i class="fa fa-check-square-o" style="color: red;"></i> Contabilidad General.
                                                 <br>
                                                 <br>
-                                                <i class="fa fa-check-square-o" style="color: red;"></i> Legislación laboral.
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Atención al Cliente.
                                                 <br>
                                                 <br>
-                                               <i class="fa fa-check-square-o" style="color: red;"></i> Asesoría de práctica (Seminario).
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Elaborar Documentos.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Archivo de Documentos.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Informática I (Word, Digitación y Acces).
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Informática II (Excel).
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Informática III (Paquete Contable).
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Legislación Laboral.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Asesorías de Practica.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Práctica Externa.
                                             </ul>
                                         </div>
                                       </div>

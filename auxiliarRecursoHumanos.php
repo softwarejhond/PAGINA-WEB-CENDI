@@ -47,7 +47,7 @@
                                         <a class="list-group-item list-group-item-action" id="list-messages-list" data-toggle="list" href="#duracion" role="tab" aria-controls="messages">DURACIÓN:</a>
                                         <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#basicos" role="tab" aria-controls="settings">MÓDULOS BÁSICOS</a>
                                         <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#especificos" role="tab" aria-controls="settings">MÓDULOS ESPECÍFICOS</a>
-                                        <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#transversal" role="tab" aria-controls="settings">MÓDULOS TRANSVERSAL</a>
+                                        <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#transversal" role="tab" aria-controls="settings">MÓDULOS TRANSVERSALES</a>
                                       </div>
                                     </div>
                                     <div class="col-8">
@@ -97,57 +97,57 @@
                                             <h3>MÓDULOS ESPECÍFICOS:</h3>
                                             <br>
                                                 <ul class="about-list">
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Ortografía y redacción.
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Gestión Humana I.
                                                     <br>
                                                     <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Proceso administrativo
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Perfiles del Cargo.
                                                     <br>
                                                     <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Contabilidad general.
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Seguridad Social.
                                                     <br>
                                                     <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Gestión humana I.
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Gestión Humana II.
                                                     <br>
                                                     <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Gestión humana II.
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Negociación y Conflicto Laboral.
                                                     <br>
                                                     <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Seguridad social.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Psicología organizacional.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Salud ocupacional.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Organización documental.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Legislación laboral.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Negociación y conﬂictos laboral
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Psicología Organizacional.
                                                     
                                                 </ul>
                                         </div>
                                         <div class="tab-pane fade" id="transversal" role="tabpanel" aria-labelledby="list-settings-list"style="text-align: justify;">
-                                            <h3>MÓDULOS TRANSVERSAL:</h3>
+                                            <h3>MÓDULOS TRANSVERSALES:</h3>
                                             <br>
                                             <ul class="about-list">
-                                                <i class="fa fa-check-square-o" style="color: red;"></i> Informática I.
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Contabilidad General.
                                                 <br>
                                                 <br>
-                                                <i class="fa fa-check-square-o" style="color: red;"></i> Informática II.
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Atención al Cliente.
                                                 <br>
                                                 <br>
-                                                <i class="fa fa-check-square-o" style="color: red;"></i> Técnicas de oﬁcina y comunicación.
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Informática I (Word, Digitación y Acces).
                                                 <br>
                                                 <br>
-                                                <i class="fa fa-check-square-o" style="color: red;"></i> Legislación tributaria.
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Seguridad y Salud en el Trabajo.
                                                 <br>
                                                 <br>
-                                                <i class="fa fa-check-square-o" style="color: red;"></i> Asesoría de práctica (Seminario).
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Examen de Admisión no Excluyente.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Informática II (Excel).
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Legislación Laboral.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Proceso Administrativo.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Asesorías de Practica.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Práctica Externa.
                                             </ul>
                                         </div>
                                       </div>

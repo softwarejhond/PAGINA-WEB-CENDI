@@ -48,7 +48,7 @@
                                         <a class="list-group-item list-group-item-action" id="list-messages-list" data-toggle="list" href="#duracion" role="tab" aria-controls="messages">DURACIÓN:</a>
                                         <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#basicos" role="tab" aria-controls="settings">MÓDULOS BÁSICOS</a>
                                         <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#especificos" role="tab" aria-controls="settings">MÓDULOS ESPECÍFICOS</a>
-                                        <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#transversal" role="tab" aria-controls="settings">MÓDULOS TRANSVERSAL</a>
+                                        <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#transversal" role="tab" aria-controls="settings">MÓDULOS TRANSVERSALES</a>
                                       </div>
                                     </div>
                                     <div class="col-8">
@@ -82,9 +82,6 @@
                                         <div class="tab-pane fade" id="basicos" role="tabpanel" aria-labelledby="list-settings-list"style="text-align: justify;">
                                             <h3>MÓDULOS BÁSICOS:</h3>
                                             <ul class="about-list">
-                                                <i class="fa fa-check-square-o" style="color: red;"></i> Tecnología de la Información y la Comunicación Tic´s.
-                                                 <br>
-                                                <br>
                                                 <i class="fa fa-check-square-o" style="color: red;"></i> Empresarismo.
                                             </ul>
                                         </div>
@@ -92,12 +89,12 @@
                                             <h3>MÓDULOS ESPECÍFICOS:</h3>
                                             <br>
                                                 <ul class="about-list">
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Manejo de caja.<br>
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Reserva de Servicios.<br>
                                                     <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Registro de huésped.
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Manejo de Caja.
                                                     <br>
                                                     <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Reserva de servicios.
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Registro de Huésped.
                                                     <br>
                                                     <br>
                                                     <i class="fa fa-check-square-o" style="color: red;"></i> Embarque de pasajeros.
@@ -105,10 +102,25 @@
                                                 </ul>
                                         </div>
                                         <div class="tab-pane fade" id="transversal" role="tabpanel" aria-labelledby="list-settings-list"style="text-align: justify;">
-                                            <h3>MÓDULOS TRANSVERSAL:</h3>
+                                            <h3>MÓDULOS TRANSVERSALES:</h3>
                                             <br>
                                             <ul class="about-list">
-                                                <i class="fa fa-check-square-o" style="color: red;"></i> Atención al cliente
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Tecnología de la Información y la comunicación (tics).
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Atención al cliente.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Examen de Admisión no Excluyente.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Asesorías de Practica.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Práctica Externa.
+                                                <br>
+                                                <br>
+                                        
                                             </ul> 
                                         </div>
                                       </div>

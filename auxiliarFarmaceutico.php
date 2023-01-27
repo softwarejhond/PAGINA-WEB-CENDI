@@ -51,7 +51,7 @@
                                         <a class="list-group-item list-group-item-action" id="list-messages-list" data-toggle="list" href="#duracion" role="tab" aria-controls="messages">DURACIÓN:</a>
                                         <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#basicos" role="tab" aria-controls="settings">MÓDULOS BÁSICOS</a>
                                         <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#especificos" role="tab" aria-controls="settings">MÓDULOS ESPECÍFICOS</a>
-                                        <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#transversal" role="tab" aria-controls="settings">MÓDULOS TRANSVERSAL</a>
+                                        <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#transversal" role="tab" aria-controls="settings">MÓDULOS TRANSVERSALES</a>
                                       </div>
                                     </div>
                                     <div class="col-8">
@@ -92,22 +92,19 @@
                                             <h3>MÓDULOS BÁSICOS:</h3>
                                             <ul class="about-list">
                                                 <i class="fa fa-check-square-o" style="color: red;"></i> Ética y valores.
-                                                <br>
-                                                <br>
-                                                <i class="fa fa-check-square-o" style="color: red;"></i> Técnicas de estudio.
-                                                <br>
-                                                <br>
-                                                <i class="fa fa-check-square-o" style="color: red;"></i> Tecnología de la información y la comunicación (Tics).
-                                                <br>
-                                                <br>
-                                                <i class="fa fa-check-square-o" style="color: red;"></i> Inducción a la institución educativa y valores.
-                                            </ul>
+                                               </ul>
                                         </div>
                                         <div class="tab-pane fade" id="especificos" role="tabpanel" aria-labelledby="list-settings-list"style="text-align: justify;">
                                             <h3>MÓDULOS ESPECÍFICOS:</h3>
                                             <br>
                                                 <ul class="about-list">
                                                     <i class="fa fa-check-square-o" style="color: red;"></i> Administrar medicamentos y elementos.
+                                                    <br>
+                                                    <br>
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Control de infección 
+                                                    <br>
+                                                    <br>
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Recibir y despachar medicamentos.
                                                     <br>
                                                     <br>
                                                     <i class="fa fa-check-square-o" style="color: red;"></i> Dispensación de medicamentos y elementos.
@@ -117,29 +114,35 @@
                                                     <br>
                                                     <br>
                                                     <i class="fa fa-check-square-o" style="color: red;"></i> Negociación de productos y servicios.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Salud ocupacional.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Atender y Orientar en el servicio farmacéutico.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Control de infección.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Recibir y despachar medicamentos.
-                                                    
+                                                   
                                                 </ul>
                                         </div>
                                         <div class="tab-pane fade" id="transversal" role="tabpanel" aria-labelledby="list-settings-list"style="text-align: justify;">
-                                            <h3>MÓDULOS TRANSVERSAL:</h3>
+                                            <h3>MÓDULOS TRANSVERSALES:</h3>
                                             <br>
                                             <ul class="about-list">
-                                                <i class="fa fa-check-square-o" style="color: red;"></i> Lenguaje de ciencias médicas.
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Técnicas de Estudio.
                                                 <br>
                                                 <br>
-                                                <i class="fa fa-check-square-o" style="color: red;"></i> Asesoría de prácticas (Seminario).
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Inducción a la Institución Educativa y Valores.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Salud Ocupacional.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Atender y Orientar al Usuario.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Examen de Admisión no Excluyente.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Tecnología de la Información y la Comunicación (TICS).
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Asesorías de Practica.
+                                                <br>
+                                                <br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Práctica Externa.
                                                 
                                             </ul>
                                         </div>

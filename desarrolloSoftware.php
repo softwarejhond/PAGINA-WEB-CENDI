@@ -65,6 +65,7 @@
                                                 <br>
                                                 <br>
                                                 <i class="fa fa-check-square-o" style="color: red;"></i> Auxiliar en sistemas.
+                                                <br><br>
                                                 <i class="fa fa-check-square-o" style="color: red;"></i> Auxiliar en sistemas informáticos.
                                              
                                              </ul>
@@ -92,20 +93,22 @@
                                             <h3>MÓDULOS ESPECÍFICOS:</h3>
                                             <br>
                                                 <ul class="about-list">
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Establecer requisitos de la solución de software de acuerdo con estándares y procedimiento técnico.
-                                                    Evaluar requisitos de la solución de software de acuerdo con metodologías de análisis y estándares.
-                                                    Diseñar la solución de software de acuerdo con procedimientos y requisitos técnicos.
-                                                    Desarrollar la solución de software de acuerdo con el diseño y metodologías de desarrollo.
-                                                    Implementar la solución de software de acuerdo con los requisitos de operación y modelos de referencia.
-                                                    Controlar la calidad del servicio de software de acuerdo con los estándares técnicos.                                                    
-                                                   
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Establecer Requisitos de la solución de software.  <br><br>                                                  
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Evaluar requisitos de la solución de software. <br><br>
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Diseñar la solución de software. <br><br>
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Desarrollar la solución de software. <br><br>
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Implementar la solución de software. <br><br>
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Controlar la calidad del servicio de software. 
                                                 </ul>
                                         </div>
                                         <div class="tab-pane fade" id="transversal" role="tabpanel" aria-labelledby="list-settings-list"style="text-align: justify;">
                                             <h3>MÓDULOS TRANSVERSAL:</h3>
                                             <br>
                                             <ul class="about-list">
-                                                <i class="fa fa-check-square-o" style="color: red;"></i> Mantener equipos de cómputo según procedimiento técnico.
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Mantenimiento de equipos de computo.<br><br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Examen de Admisión no Excluyente.<br><br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Asesorías de Practica.<br><br>
+                                                <i class="fa fa-check-square-o" style="color: red;"></i> Práctica Externa.
                                             </ul> 
                                         </div>
                                       </div>
