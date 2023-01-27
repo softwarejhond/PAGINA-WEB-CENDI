@@ -73,9 +73,7 @@
                                         </div>
                                         <div class="tab-pane fade" id="plan" role="tabpanel" aria-labelledby="list-profile-list"style="text-align: justify;">
                                             <h3>PLAN DE ESTUDIO:</h3>
-                                            El programa técnico laboral como auxiliar en recursos humanos, cuenta con un total de 1.200 horas, 
-                                            distribuidas en tres niveles de formación: 50% teórico (600 horas) y 50% prácticas (600 horas). 
-                                            Las horas prácticas serán de cumplimiento en las instituciones en que se tenga convenio.
+                                            El programa Técnico Laboral como Auxiliar Administrativo, cuenta con un total de 1.200 horas, distribuidas en tres niveles de formación: 50% teórico (600 horas) y 50% prácticas (600 horas). Las horas prácticas serán de cumplimiento en las instituciones en que se tengan convenio.
                                         </div>
                                         <div class="tab-pane fade" id="duracion" role="tabpanel" aria-labelledby="list-messages-list"style="text-align: justify;">
                                             
