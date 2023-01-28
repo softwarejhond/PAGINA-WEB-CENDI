@@ -126,6 +126,17 @@
                                       </div>
                                     </div>
                                   </div>
+                                  <h5 style="text-align: center;">
+                            Certiﬁcado Otorgado<br>
+                            TÉCNICO LABORAL COMO EMPLEADO DE RECEPCIÓN HOTELERA. <br>
+                            NO CONDUCE A TITULO PROFESIONAL.<br>
+							Sujeto a cambios según politicas institucionales y normatividad legal vigente.<br>
+							Supervisada por Secretaría de Educación de Medellín.
+						<br>
+             
+                            <img src="img/icons/mejores.png" alt="mejores" style="padding: 5px;">
+                            
+                        </h5>
                             </div>
                          </div>
                     
