@@ -17,7 +17,7 @@
 		<div class="container">
 			<a href="index.html"><i class="fa fa-home"></i> Inicio</a> <i class="fa fa-angle-right"></i>
 			<span>Institución</span><i class="fa fa-angle-right"></i>
-			<span >Políticas de calidad</span>
+			<span >Política de calidad</span>
 		</div>
 	</div>
 	<!-- Indetifacion de pagina finaliza-->
@@ -27,7 +27,7 @@
 	<section class="about-section spad pt-0">
 		<div class="container">
 			<div class="section-title text-center">
-				<h3>BIENVENIDOS A POLÍTICAS DE CALIDAD</h3>
+				<h3>BIENVENIDOS A POLÍTICA DE CALIDAD</h3>
 				<p>"EDUCANDO EN LA RESPONSABILIDAD, EDUCAMOS PARA LA LIBERTAD"</p>
 			</div>
 			<div class="row">
@@ -36,7 +36,7 @@
                         <div class="col-4">
                           <div class="list-group" id="list-tab" role="tablist">
                             <a class="list-group-item list-group-item-action active" id="list-home-list" data-toggle="list" href="#enfoque" role="tab" aria-controls="home">Enfoque al cliente</a>
-                            <a class="list-group-item list-group-item-action" id="list-profile-list" data-toggle="list" href="#politicas" role="tab" aria-controls="profile">Políticas de calidad</a>
+                            <a class="list-group-item list-group-item-action" id="list-profile-list" data-toggle="list" href="#politicas" role="tab" aria-controls="profile">Política de calidad</a>
                             <a class="list-group-item list-group-item-action" id="list-messages-list" data-toggle="list" href="#objetivos" role="tab" aria-controls="messages">Objetivo de calidad</a>
                             <a class="list-group-item list-group-item-action" id="list-settings-list" data-toggle="list" href="#valores" role="tab" aria-controls="settings">Valores institucionales</a>
                           </div>
