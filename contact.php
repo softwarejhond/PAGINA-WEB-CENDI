@@ -59,11 +59,17 @@
 					<div  class="informacion">
 					<div class="map-section2">
 						<div class="contact-info-warp2">
+						<div class="contact-info">
+								<li><h4><i class="fa fa-user"></i> Karina Vásquez Mejía</h4></li>
+								<p><i class="fa fa-briefcase"></i> Coordinadora de Prácticas </p>
+								<p><i class="fa fa-phone"></i> 604 441 808 ext 114 </p>
+								<p><i class="fa fa-envelope-open"></i>practicas@cendi.edu.co </p>
+							</div>
 							<div class="contact-info">
 								<li><h4><i class="fa fa-user"></i> Liliana Urueta Córdoba</h4></li>
-								<p><i class="fa fa-briefcase"></i> Secretaria Bachillerato</p>
-								<p><i class="fa fa-phone"></i> 604 444 18 08 Ext. 107</p>
-								<p><i class="fa fa-envelope-open"></i> secretariaacademica@cendi.edu.co</p>
+								<p><i class="fa fa-briefcase"></i> Secretaria Académica Bachillerato </p>
+								<p><i class="fa fa-phone"></i> 604 444 18 08 ext 130 / 110 / 107</p>
+								<p><i class="fa fa-envelope-open"></i> secretariaacademica@cendiacademico.edu.co</p>
 							</div>
 							<div class="contact-info">
 								<li><h4><i class="fa fa-user"></i> Mariluz Gaviria Rico</h4></li>
@@ -72,22 +78,10 @@
 								<p><i class="fa fa-envelope-open"></i> inversaludcendi@hotmail.com</p>
 							</div>
 							<div class="contact-info">
-								<li><h4><i class="fa fa-user"></i> Solanlly Andrea Zuluaga Restrepo</h4></li>
-								<p><i class="fa fa-briefcase"></i> Coordinación Municipios</p>
-								<p><i class="fa fa-phone"></i> 604 444 18 08 Ext. 120</p>
-								<p><i class="fa fa-envelope-open"></i> coordinacionmunicipioscendi@cendi.edu.co</p>
-							</div>
-							<div class="contact-info">
-								<li><h4><i class="fa fa-user"></i> Rubiela Mejia Soto</h4></li>
-								<p><i class="fa fa-briefcase"></i> Coordinación Castilla</p>
-								<p><i class="fa fa-phone"></i> 604 477 31 09</p>
-								<p><i class="fa fa-envelope-open"></i> cendicastilla@gmail.com</p>
-							</div>
-							<div class="contact-info">
-								<li><h4><i class="fa fa-user"></i> Jaime Castañeda</h4></li>
-								<p><i class="fa fa-briefcase"></i> Secretario Castilla</p>
-								<p><i class="fa fa-phone"></i> 604 477 31 09</p>
-								<p><i class="fa fa-envelope-open"></i> cendicastilla@gmail.com</p>
+								<li><h4><i class="fa fa-user"></i> Elsa Nidia Franco Ballesteros</h4></li>
+								<p><i class="fa fa-briefcase"></i> Coordinación Bachillerato</p>
+								<p><i class="fa fa-phone"></i> 604 444 18 08 Ext. 104</p>
+								<p><i class="fa fa-envelope-open"></i> coordinacionbto@cendi.edu.co</p>
 							</div>
 							
 						</div>
@@ -101,24 +95,21 @@
 							</div>
 							<div class="contact-info">
 								<li><h4><i class="fa fa-user"></i> Sandra Milena Bustamante Rave</h4></li>
-								<p><i class="fa fa-briefcase"></i> Secretaria Técnicos
-									Gestión Empresarial
-									Prácticas Empresariales</p>
+								<p><i class="fa fa-briefcase"></i> Secretaria Académica Programas Técnicos</p>
 								<p><i class="fa fa-phone"></i> 604 444 18 08 Ext. 108</p>
-								<p><i class="fa fa-envelope-open"></i> rectoriatecnicos@cendi.edu.co</p>
-								<p><i class="fa fa-envelope-open"></i> coordinaciontecnicos@cendi.edu.co</p>
+								<p><i class="fa fa-envelope-open"></i> secretariatecnicos@cendi.edu.co</p>
 							</div>
 							<div class="contact-info">
 								<li><h4><i class="fa fa-user"></i> Ricaurte de Jesús Vásquez Varela</h4></li>
 								<p><i class="fa fa-briefcase"></i> Coordinación Bachillerato</p>
-								<p><i class="fa fa-phone"></i> 604 444 18 08 Ext. 114</p>
+								<p><i class="fa fa-phone"></i> 604 444 18 08 Ext. 105</p>
 								<p><i class="fa fa-envelope-open"></i> rectoria@cendi.edu.co</p>
 								
 							</div>
 							<div class="contact-info">
 								<li><h4><i class="fa fa-user"></i> Edwin Alberto Cárdenas Montoya</h4></li>
 								<p><i class="fa fa-briefcase"></i> Compras</p>
-								<p><i class="fa fa-phone"></i> 604 444 18 08 Ext. 123</p>
+								<p><i class="fa fa-phone"></i> 604 444 18 08 Ext. 124</p>
 								<p><i class="fa fa-envelope-open"></i> compraseinfraestructura@cendi.edu.co</p>
 								
 							</div>
@@ -132,91 +123,6 @@
 				</div>
 				<br><br><br><br><br><br><br><br>
 				
-				<form class="comment-form --contact">
-					
-					<div class="row">
-						<div class="col-lg-4">
-							<div class="form-group"> 
-								<label for="uname">Nombre completo:</label>
-								<input type="text" class="form-control" id="name" placeholder="Ingresar nombre aquí" name="uname" onblur="aMayusculas(this.value,this.id)"required>
-								<div class="valid-feedback">Valido.</div>
-								<div class="invalid-feedback">Por favor rellenar el campo con su nombre.</div>
-							  </div>
-						</div>
-						<div class="col-lg-4">
-							<div class="form-group"> 
-								<label for="uname">Correo electrónico:</label>
-								<input type="email" class="form-control" id="name" placeholder="Ingresar correo aquí" name="uname" onblur="aMayusculas(this.value,this.id)"required>
-								<div class="valid-feedback">Valido.</div>
-								<div class="invalid-feedback">Por favor rellenar el campo con su nombre.</div>
-							  </div>
-						</div>
-						<div class="col-lg-4">
-							<div class="form-group"> 
-								<label for="uname">Número de celular:</label>
-								<input type="text" class="form-control" id="name" placeholder="Ingresar celular aquí" name="uname" onblur="aMayusculas(this.value,this.id)"required maxlength="10" minlength="10">
-								<div class="valid-feedback">Valido.</div>
-								<div class="invalid-feedback">Por favor rellenar el campo con su nombre.</div>
-							  </div>
-						</div>
-						<div class="col-lg-4">
-							<div class="form-group"> 
-								<label for="uname">Medio por el cual se enteró:</label>
-								<select class="form-control-lg" id="inputGroupSelect01" style="width: 100%; background-color: transparent;">
-									<option selected>SELECCIONAR</option>
-									<option value="PAGINA WEB">PÁGINA WEB</option>
-									<option value="BUSCADORES">BUSCADORES (GOOGLE)</option>
-									<option value="CORREO ELECTRONICO">CORREO ELECTRÓNICO</option>
-									<option value="PUNTO DE INFORMACION">PUNTO DE INFORMACIÓN</option>
-									<option value="PROMOTOR">PROMOTOR</option>
-									<option value="CONVENIO EMPRESARIAL">CONVENIO EMPRESARIAL</option>
-									<option value="VISITA A COLEGIO">VISITA A COLEGIO</option>
-									<option value="AVISOS VALLAS">AVISOS-VALLAS</option>
-									<option value="RADIO">RADIO</option>
-									<option value="PRENSA">PRENSA</option>
-									<option value="TELEVISION">TELEVISIÓN</option>
-									<option value="TELEMERCADEO">TELEMERCADEO</option>
-									<option value="WHATSAPP">WHATSAPP</option>
-									<option value="REDES SOCIALES">REDES SOCIALES</option>
-									<option value="AMIGOS">AMIGOS</option>
-									<option value="FAMILIARES">FAMILIARES</option>
-									<option value="DIRECTORIO TELEFONICO">DIRECTORIO TELEFÓNICO</option>
-									<option value="EVENTOS FERIAS">EVENTOS - FERIAS </option>
-								  </select>
-							  </div>
-						</div>
-						<div class="col-lg-8">
-							<div class="form-group"> 
-								<label for="uname">Programas:</label>
-								<select class="form-control-lg" id="inputGroupSelect01" style="width: 100%; background-color: transparent;">
-									<option selected>SELECCIONAR</option>
-									<option value="TÉCNICO LABORAL COMO ASISTENTE CONTABLE"> TÉCNICO LABORAL COMO ASISTENTE CONTABLE</option>
-									<option value="TÉCNICO LABORAL COMO ASISTENTE ADMINISTRATIVO">TÉCNICO LABORAL COMO ASISTENTE ADMINISTRATIVO</option>
-									<option value="TÉCNICO LABORAL COMO AUXILIAR EN SECRETARIADO MÉDICO">TÉCNICO LABORAL COMO AUXILIAR EN SECRETARIADO MÉDICO</option>
-									<option value="TÉCNICO LABORAL COMO AUXILIAR EN SECRETARIADO GERENCIAL">TÉCNICO LABORAL COMO AUXILIAR EN SECRETARIADO GERENCIAL</option>
-									<option value="TÉCNICO LABORAL COMO AUXILIAR EN RECURSOS HUMANOS">TÉCNICO LABORAL COMO AUXILIAR EN RECURSOS HUMANOS</option>
-									<option value="TÉCNICO LABORAL AUXILIAR EN SERVICIOS FARMACÉUTICOS">TÉCNICO LABORAL AUXILIAR EN SERVICIOS FARMACÉUTICOS</option>
-									<option value="TÉCNICO LABORAL AUXILIAR ADMINISTRATIVO EN SALUD">TÉCNICO LABORAL AUXILIAR ADMINISTRATIVO EN SALUD</option>
-									<option value="TÉCNICO LABORAL COMO AUXILIAR EN SERVICIO AL CLIENTE Y TELEMERCADEO">TÉCNICO LABORAL COMO AUXILIAR EN SERVICIO AL CLIENTE Y TELEMERCADEO</option>
-									<option value="TÉCNICO LABORAL COMO AUXILIAR EN SISTEMAS">TÉCNICO LABORAL COMO AUXILIAR EN SISTEMAS</option>
-								  </select>
-							  </div>
-							  
-						</div>
-						<div class="col-lg-8">
-							<div class="form-group"> 
-						      <input type="checkbox" name="vehicle" value="Bike"> <a href="DOCS/POLITICA DE TRATAMIENTO DE DATOS PERSONALES.pdf" title="Abirir documento de política de tratamiento de datos">Acepto la política de tratamiento de datos.</a>
-						   </div>
-						</div>
-						<div class="col-lg-12">
-							<div class="text-center">
-								<button class="btn btn-success">Ingresar</button>
-					            <button class="btn btn-danger">Cancelar</button>
-							</div>
-						</div>
-					  </div>
-				  </div>
-				</form>
 			</div>
 		</div>
 	</section>

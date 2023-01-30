@@ -97,23 +97,33 @@
 								<br>
 								<br>
 								<ul class="about-list">
-								<i class="fa fa-check-square-o"></i> Técnico laboral como asistente contable
+								<label class="dropdown-item disabled text-danger" >PROGRAMAS ADMINISTRATIVOS:</label>
+								<i class="fa fa-check-square-o"></i> Técnico Laboral como Auxiliar Contable
 								<br>
-								<i class="fa fa-check-square-o"></i>  Técnico laboral como asistente administrativo
+								<i class="fa fa-check-square-o"></i>  Técnico Laboral como Auxiliar Administrativo
 								<br>
-								<i class="fa fa-check-square-o"></i>  Técnico laboral en secretariado médico
+								<i class="fa fa-check-square-o"></i>  Técnico Laboral en Secretaria(o) Médica (o)
 								<br>
-								<i class="fa fa-check-square-o"></i> Técnico laboral en secretariado gerencial
+								<i class="fa fa-check-square-o"></i>  Técnico Laboral como Secretaria General
 								<br>
-								<i class="fa fa-check-square-o"></i>  Técnico en recursos humanos
+								<i class="fa fa-check-square-o"></i>  Técnico Laboral Auxiliar en Recursos Humanos
 								<br>
-								<i class="fa fa-check-square-o"></i> Técnico en servicio al cliente y telemercadeo
+								<i class="fa fa-check-square-o"></i>  Técnico Laboral Auxiliar en Servicio al Cliente y Telemercadeo
 								<br>
-								<i class="fa fa-check-square-o"></i> Técnico laboral en sistemas
+								<i class="fa fa-check-square-o"></i> Técnico laboral como auxiliar de sistemas informáticos
 								<br>
-								<i class="fa fa-check-square-o"></i> Técnico laboral auxiliar en servicios farmacéuticos
+								<i class="fa fa-check-square-o"></i> Técnico Laboral como Empleado de Recepción Hotelera
 								<br>
-								<i class="fa fa-check-square-o"></i> Técnico laboral auxiliar administrativo en salud
+								<i class="fa fa-check-square-o"></i> Técnico Laboral como Asistente en Desarrollo de Software
+								<br><br>
+								<label class="dropdown-item disabled text-danger" >PROGRAMAS DE SALUD:</label>
+								<i class="fa fa-check-square-o"></i> Técnico Laboral Auxiliar en Servicios Farmacéuticos
+								<br>
+								<i class="fa fa-check-square-o"></i> Técnico Laboral Auxiliar Administrativo en Salud
+								<br><br>
+								<label class="dropdown-item disabled text-danger" >PROGRAMA DE CONOCIMIENTOS ACADÉMICOS:</label>
+								<i class="fa fa-check-square-o"></i> Inglés
+								
 							</ul>
 							</div>
 						  </div>

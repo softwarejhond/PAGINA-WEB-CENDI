@@ -5,7 +5,7 @@
 				<a href="https://www.instagram.com/cendi.medellin/?hl=es-la" style="cursor: pointer;" target="_blank"><i class="fa fa-instagram"></i></a>
 				<a href="https://api.whatsapp.com/send/?phone=573128785556&text=Me+gustar%C3%ADa+saber+sobre+alg%C3%BAn+programa&type=phone_number&app_absent=0" target="_blank"><i class="fa fa-whatsapp"></i></a>
 						
-				<a href="PORTAFOLIO WEB CENDI/index.html" title="Portafolio"><i class="fa fa-book"></i></a>
+				<!--<a href="PORTAFOLIO WEB CENDI/index.html" title="Portafolio"><i class="fa fa-book"></i></a>--> 
 			</div>
 			<ul class="main-menu">
 				<li class="active"><a href="index.php">INICIO</a></li>

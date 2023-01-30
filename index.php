@@ -553,8 +553,7 @@
             <br><br>
             <div class="row">
 
-                <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1w1eUxDI3FXVEiw1C8KL22zzbn4Y0GQ8V" width="100%"
-                    height="480"></iframe>
+            <iframe src="https://www.google.com/maps/d/embed?mid=1w1eUxDI3FXVEiw1C8KL22zzbn4Y0GQ8V&ehbc=2E312F" width="100%" height="480"></iframe>
 
             </div>
         </div>
@@ -716,8 +715,7 @@ include 'convenios.php';
             <div class="modal-dialog modal-lg" style="text-align: center;">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel"><i class="fa fa-exclamation"></i> LEER CON
-                            ATENCIÓN<i class="fa fa-exclamation"></i> </h5>
+                        <h5 class="modal-title" id="exampleModalLabel"><i class="fa fa-exclamation"></i> ACCEDE A NUESTRAS PLATAFORMAS<i class="fa fa-exclamation"></i> </h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close"
                             title="Cerrar"></button>
                         <span aria-hidden="true">&times;</span>
@@ -727,27 +725,21 @@ include 'convenios.php';
                     <div class="modal-body lg">
                         <div class="container">
                             <div class="row">
+                             
                                 <div class="col-lg-12">
-                                    <a href="https://moodle.cendi.fundacionview.org" target="_blank"><img
-                                            src="img/icons/webAndroid.png" alt="Botón Q10 para bachillerato"
-                                            width="100%" title="Ingresar al Q10 para estudiantes de bachillerato"></a>
-                                    <br>
-                                    <br>
-
-                                </div>
-
-                                <div class="col-lg-12">
-
+                                <a href="https://moodle.cendi.fundacionview.org" target="_blank"><img src="img/icons/webAndroid.gif"
+                                            alt="Acceder" width="250px"
+                                            title="Ingresar"></a>
                                     <a href="https://site2.q10.com/login?ReturnUrl=%2F&aplentId=c866b1f7-b5a4-4146-a6d5-eda3de6bdea9"
-                                        target="_blank"><img src="img/icons/bachillerQ10.png"
-                                            alt="Botón Q10 para bachillerato" width="25%"
+                                        target="_blank"><img src="img/icons/qbachiller.gif"
+                                            alt="Botón Q10 para bachillerato" width="250px"
                                             title="Ingresar al Q10 para estudiantes de bachillerato"></a>
                                     <a href="https://site3.q10.com/login?ReturnUrl=%2F&aplentId=d0e037d5-22c3-4082-b55e-d30628819936"
-                                        target="_blank"><img src="img/icons/tecnicosQ10.png"
-                                            alt="Botón Q10 para bachillerato" width="25%;"
+                                        target="_blank"><img src="img/icons/qtecnicos.gif"
+                                            alt="Botón Q10 para bachillerato" width="250px"
                                             title="Ingresar al Q10 para estudiantes de programas técnicos"></a>
                                     <a href="https://cendi.kurve.digital/" target="_blank"><img
-                                            src="img/icons/campus.png" alt="Ingreso Kurve" width="25%;"
+                                            src="img/icons/campus.gif" alt="Ingreso Kurve" width="250px"
                                             title="Ingresar al Moodle programa talento especializado"></a>
 
                                 </div>
