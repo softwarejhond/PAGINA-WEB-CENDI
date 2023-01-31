@@ -38,7 +38,7 @@
 						<p>+57 604 444 18 08</p>
 					</div>
 					<div class="contact-info">
-						<li><h4><i class="fa fa-envelope"></i> Dirección</h4></li>
+						<li><h4><i class="fa fa-envelope"></i> Correo electrónico</h4></li>
 						<p>mercadeo1@cendi.edu.co</p>
 					</div>
 					<div class="contact-info">
