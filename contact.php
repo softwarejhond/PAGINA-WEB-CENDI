@@ -72,7 +72,7 @@
 								<p><i class="fa fa-envelope-open"></i> secretariaacademica@cendiacademico.edu.co</p>
 							</div>
 							<div class="contact-info">
-								<li><h4><i class="fa fa-user"></i> Mariluz Gaviria Rico</h4></li>
+								<li><h4><i class="fa fa-user"></i> Gleidy Soranyi</h4></li>
 								<p><i class="fa fa-briefcase"></i> Tesoreria</p>
 								<p><i class="fa fa-phone"></i> 604 444 18 08 Ext. 103</p>
 								<p><i class="fa fa-envelope-open"></i> inversaludcendi@hotmail.com</p>
