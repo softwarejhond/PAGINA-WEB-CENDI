@@ -779,8 +779,8 @@ include 'convenios.php';
                     <div class="modal-body lg">
                         <div class="container">
                             <div class="row">
-                                <div class="col-lg-12">
-                                    <img src="img/modals/cursos.jpg" alt="cursos" width="50%" class="miniature">
+                                <div class="col-lg-6">
+                                    <img src="img/modals/cursos.jpg" alt="cursos" width="100%" class="miniature">
 
                                     <br>
                                     <br>
@@ -789,7 +789,16 @@ include 'convenios.php';
                                     <br>
                                     <br>
                                 </div>
+                                <div class="col-lg-6">
+                                    <img src="img/modals/oferta.jpg" alt="cursos" width="100%" class="miniature">
 
+                                    <br>
+                                    <br>
+                                    <a href="https://inscripciones.medellindigital.gov.co/convocatorias/formulario.php?token=01YpblQcTS.OQ"
+                                        class="btn btn-success" target="_blank">REGÍSTRATE AHORA</a>
+                                    <br>
+                                    <br>
+                                </div>
 
                             </div>
                         </div>
