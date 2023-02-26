@@ -93,7 +93,7 @@
 								<br>
 								<br>
 
-								Hoy CENDI cuenta con 9 programas técnicos:
+								Hoy CENDI cuenta con 11 programas técnicos:
 								<br>
 								<br>
 								<ul class="about-list">

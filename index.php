@@ -793,7 +793,7 @@ include 'convenios.php';
                                     <img src="img/modals/oferta.jpg" alt="cursos" width="100%" class="miniature">
 
                                     <br>
-                                    <br>
+                                    <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
                                     <a href="https://inscripciones.medellindigital.gov.co/convocatorias/formulario.php?token=01YpblQcTS.OQ"
                                         class="btn btn-success" target="_blank">REGÍSTRATE AHORA</a>
                                     <br>
