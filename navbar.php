@@ -22,6 +22,8 @@
 							download="Manual de convicencia CENDI 2020 Bachiller">Manual de convivencia Bachillerato</a>
 						<a class="dropdown-item" href="/DOCS/MA04 Manual de Convivencia - Versión 6.pdf"
 							download="Manual de convicencia CENDI 2020 Tecnicos">Manual de convivencia Técnicos</a>
+							<a class="dropdown-item" href="personal.php"
+							>Nuestro personal</a>
 					</div>
 				</li>
 				<li class="nav-item dropdown">
