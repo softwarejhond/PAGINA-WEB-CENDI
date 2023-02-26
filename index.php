@@ -790,7 +790,7 @@ include 'convenios.php';
                                     <br>
                                 </div>
                                 <div class="col-lg-6">
-                                    <img src="img/modals/oferta.jpg" alt="cursos" width="100%" class="miniature">
+                                    <img src="img/modals/oferta2.jpg" alt="cursos" width="100%" class="miniature">
 
                                     <br>
                                     <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
