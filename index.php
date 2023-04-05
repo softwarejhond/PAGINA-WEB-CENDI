@@ -34,11 +34,19 @@
                 <li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
             </ol>
             <div class="carousel-inner">
 
                 <div class="carousel-item active">
-                    <img src="img/carrusel/2023Web.gif" class="d-block w-100" alt="...">
+                    <a href="https://fondos.sapiencia.gov.co/convocatorias/acceso/index.php/Acceso_controller/fc_cargarvista?id=26&id_ruta=118" target="_blank"><img src="img/carrusel/web.png" class="d-block w-100" alt="..."></a>
+                </div>
+                <div class="carousel-item ">
+                    <a href="https://fondos.sapiencia.gov.co/convocatorias/acceso/index.php/Acceso_controller/fc_cargarvista?id=26&id_ruta=119" target="_blank"><img src="img/carrusel/movil.png" class="d-block w-100" alt="..."></a>
+                </div>
+                <div class="carousel-item ">
+                    <a href="https://fondos.sapiencia.gov.co/convocatorias/acceso/index.php/Acceso_controller/fc_cargarvista?id=26&id_ruta=121" target="_blank"><img src="img/carrusel/elearning.png" class="d-block w-100" alt="..."></a>
                 </div>
                 <div class="carousel-item">
                     <img src="img/carrusel/1.png" class="d-block w-100" alt="...">
