@@ -19,7 +19,7 @@
 		<div class="container">
 			<a href="#"><i class="fa fa-home"></i> Inicio</a> <i class="fa fa-angle-right"></i>
 			<span>Programas</span><i class="fa fa-angle-right"></i>
-			<span>Técnico Laboral como Auxiliar en Administrativo en Salud</span>
+			<span>Técnico Laboral en Auxiliar Administrativo en Salud</span>
 		</div>
 	</div>
 	<!-- Breadcrumb section end -->
@@ -31,7 +31,7 @@
 			<div class="row">
 				<div class="col-lg-12 post-list">
 					<div class="post-item">
-                        <h4>Técnico Laboral como Auxiliar en Administrativo en Salud</h4>
+                        <h4>Técnico Laboral en Auxiliar Administrativo en Salud</h4>
                         <br>
                         <div class="post-thumb set-bg" data-setbg="img/sliders/salud.png"></div>
                         <br>
@@ -149,7 +149,7 @@
                          <br>
                          <h5 style="text-align: center;">
                             Certiﬁcado Otorgado<br>
-                            TÉCNICO LABORAL POR COMPETENCIAS COMO AUXILIAR ADMINISTRATIVO EN SALUD.<br>
+                            TÉCNICO LABORAL POR COMPETENCIAS EN AUXILIAR ADMINISTRATIVO EN SALUD.<br>
                             NO CONDUCE A TITULO PROFESIONAL<br>
 							Sujeto a cambios según politicas institucionales y normatividad legal vigente.<br>
 							Supervisada por Secretaría de Educación de Medellín.
