@@ -768,62 +768,7 @@ include 'convenios.php';
         </div>
     </div>
 
-    <div class="text-center">
-        <div class="modal fade bd-example-modal-lg" id="info" tabindex="-1" role="dialog"
-            aria-labelledby="myLargeModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-lg" style="text-align: center; max-width: 1140px;">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel"><i class="fa fa-exclamation"></i> Matrículas
-                            abiertas
-                            <i class="fa fa-exclamation"></i>
-                        </h5>
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"
-                            title="Cerrar"></button>
-                        <span aria-hidden="true">&times;</span>
-                        </button>
-
-                    </div>
-                    <div class="modal-body lg">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-lg-6">
-                                    <img src="img/modals/cursos.jpg" alt="cursos" width="100%" class="miniature">
-
-                                    <br>
-                                    <br>
-                                    <a href="https://inscripciones.medellindigital.gov.co/convocatorias/formulario.php?token=01YpblQcTS.OQ"
-                                        class="btn btn-success" target="_blank">REGÍSTRATE AHORA</a>
-                                    <br>
-                                    <br>
-                                </div>
-                                <div class="col-lg-6">
-                                    <img src="img/modals/oferta2.jpg" alt="cursos" width="100%" class="miniature">
-
-                                    <br>
-                                    <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-                                    <a href="https://inscripciones.medellindigital.gov.co/convocatorias/formulario.php?token=01YpblQcTS.OQ"
-                                        class="btn btn-success" target="_blank">REGÍSTRATE AHORA</a>
-                                    <br>
-                                    <br>
-                                </div>
-
-                            </div>
-                        </div>
-                        <div class="container">
-
-                            <div class="modal-footer">
-                                <h5 style="color: white;text-align: center;">Matrículas abiertas</h5>
-                            </div>
-
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
+  
 
     <div class="modal fade" id="pqrsModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog">
