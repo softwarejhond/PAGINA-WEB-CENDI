@@ -40,13 +40,16 @@
             <div class="carousel-inner">
 
                 <div class="carousel-item active">
-                    <a href="https://fondos.sapiencia.gov.co/convocatorias/acceso/index.php/Acceso_controller/fc_cargarvista?id=26&id_ruta=118" target="_blank"><img src="img/carrusel/web.png" class="d-block w-100" alt="..."></a>
+                    <a href="https://fondos.sapiencia.gov.co/convocatorias/acceso/index.php/Acceso_controller/fc_cargarvista?id=26&id_ruta=118"
+                        target="_blank"><img src="img/carrusel/web.png" class="d-block w-100" alt="..."></a>
                 </div>
                 <div class="carousel-item ">
-                    <a href="https://fondos.sapiencia.gov.co/convocatorias/acceso/index.php/Acceso_controller/fc_cargarvista?id=26&id_ruta=119" target="_blank"><img src="img/carrusel/movil.png" class="d-block w-100" alt="..."></a>
+                    <a href="https://fondos.sapiencia.gov.co/convocatorias/acceso/index.php/Acceso_controller/fc_cargarvista?id=26&id_ruta=119"
+                        target="_blank"><img src="img/carrusel/movil.png" class="d-block w-100" alt="..."></a>
                 </div>
                 <div class="carousel-item ">
-                    <a href="https://fondos.sapiencia.gov.co/convocatorias/acceso/index.php/Acceso_controller/fc_cargarvista?id=26&id_ruta=121" target="_blank"><img src="img/carrusel/elearning.png" class="d-block w-100" alt="..."></a>
+                    <a href="https://fondos.sapiencia.gov.co/convocatorias/acceso/index.php/Acceso_controller/fc_cargarvista?id=26&id_ruta=121"
+                        target="_blank"><img src="img/carrusel/elearning.png" class="d-block w-100" alt="..."></a>
                 </div>
                 <div class="carousel-item">
                     <img src="img/carrusel/1.png" class="d-block w-100" alt="...">
@@ -561,7 +564,8 @@
             <br><br>
             <div class="row">
 
-            <iframe src="https://www.google.com/maps/d/embed?mid=1w1eUxDI3FXVEiw1C8KL22zzbn4Y0GQ8V&ehbc=2E312F" width="100%" height="480"></iframe>
+                <iframe src="https://www.google.com/maps/d/embed?mid=1w1eUxDI3FXVEiw1C8KL22zzbn4Y0GQ8V&ehbc=2E312F"
+                    width="100%" height="480"></iframe>
 
             </div>
         </div>
@@ -723,7 +727,8 @@ include 'convenios.php';
             <div class="modal-dialog modal-lg" style="text-align: center;">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel"><i class="fa fa-exclamation"></i> ACCEDE A NUESTRAS PLATAFORMAS<i class="fa fa-exclamation"></i> </h5>
+                        <h5 class="modal-title" id="exampleModalLabel"><i class="fa fa-exclamation"></i> ACCEDE A
+                            NUESTRAS PLATAFORMAS<i class="fa fa-exclamation"></i> </h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close"
                             title="Cerrar"></button>
                         <span aria-hidden="true">&times;</span>
@@ -733,10 +738,10 @@ include 'convenios.php';
                     <div class="modal-body lg">
                         <div class="container">
                             <div class="row">
-                             
+
                                 <div class="col-lg-12">
-                                <a href="https://moodle.cendi.fundacionview.org" target="_blank"><img src="img/icons/webAndroid.gif"
-                                            alt="Acceder" width="250px"
+                                    <a href="https://moodle.cendi.fundacionview.org" target="_blank"><img
+                                            src="img/icons/webAndroid.gif" alt="Acceder" width="250px"
                                             title="Ingresar"></a>
                                     <a href="https://site2.q10.com/login?ReturnUrl=%2F&aplentId=c866b1f7-b5a4-4146-a6d5-eda3de6bdea9"
                                         target="_blank"><img src="img/icons/qbachiller.gif"
@@ -767,8 +772,52 @@ include 'convenios.php';
             </div>
         </div>
     </div>
+   
 
-  
+   
+        <div class="modal fade bd-example-modal-lg" id="info" tabindex="-1" role="dialog"
+            aria-labelledby="myLargeModalLabel" aria-hidden="true">
+            <div class="modal-dialog" style="text-align: center; max-width:1140px">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel"><i class="fa fa-exclamation"></i> ACCEDE A
+                            NUESTROS CURSOS <i class="fa fa-exclamation"></i> </h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"
+                            title="Cerrar"></button>
+                        <span aria-hidden="true">&times;</span>
+                        </button>
+
+                    </div>
+                    <div class="modal-body lg">
+                        <div class="container">
+                            <div class="row">
+
+                                <div class="col-lg-4">
+                                    <a href="https://fondos.sapiencia.gov.co/convocatorias/acceso/index.php/Acceso_controller/fc_cargarvista?id=26&id_ruta=118" target="_blank"><img src="img//modals/curso1.png"  alt="Acceder" width="100%"
+                                    title="Ingresar"></a>
+                                </div>
+                                <div class="col-lg-4">
+                                    <a href="https://fondos.sapiencia.gov.co/convocatorias/acceso/index.php/Acceso_controller/fc_cargarvista?id=26&id_ruta=119" target="_blank"><img src="img//modals/curso2.png"  alt="Acceder" width="100%"
+                                    title="Ingresar"></a>
+                                </div>
+                                <div class="col-lg-4">
+                                    <a href="https://fondos.sapiencia.gov.co/convocatorias/acceso/index.php/Acceso_controller/fc_cargarvista?id=26&id_ruta=121" target="_blank"><img src="img//modals/curso3.png"  alt="Acceder" width="100%"
+                                    title="Ingresar"></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="container">
+                            <div class="modal-footer">
+                                <h5 style="color: white;text-align: center;">INFORMACIÓN IMPORTANTE</h5>
+                            </div>
+
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+ 
 
     <div class="modal fade" id="pqrsModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog">
@@ -903,21 +952,20 @@ include 'convenios.php';
                 });
         });
     </script>
-<!--GENERADOR DE CODIGO PARA EL RADICADO-->
-<script>   
-function rand_code(chars, lon) {
-                            code = "";
-                            for (x = 0; x < lon; x++) {
-                                rand = Math.floor(Math.random() * chars.length);
-                                code += chars.substr(rand, 1);
-                            }
-                            return code;
-                        }
-                        caracteres = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ.";
-                        longitud = 8;
-document.getElementById('codigo').value = rand_code(caracteres, longitud);
-                       
-</script>
+    <!--GENERADOR DE CODIGO PARA EL RADICADO-->
+    <script>
+    function rand_code(chars, lon) {
+        code = "";
+        for (x = 0; x < lon; x++) {
+            rand = Math.floor(Math.random() * chars.length);
+            code += chars.substr(rand, 1);
+        }
+        return code;
+    }
+    caracteres = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ.";
+    longitud = 8;
+    document.getElementById('codigo').value = rand_code(caracteres, longitud);
+    </script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
         integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous">
