@@ -53,6 +53,11 @@
                 </div>
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
+                        <img src="./img/member/21.png" class="card-img-top" alt="...">
+                    </div>
+                </div>
+                <div class="col-lg-3 about-text">
+                    <div class="card" style="width: 100%">
                         <img src="./img/member/12.png" class="card-img-top" alt="...">
                     </div>
                 </div>
@@ -113,17 +118,7 @@
                 </div>
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
-                        <img src="./img/member/19.png" class="card-img-top" alt="...">
-                    </div>
-                </div>
-                <div class="col-lg-3 about-text">
-                    <div class="card" style="width: 100%">
                         <img src="./img/member/15.png" class="card-img-top" alt="...">
-                    </div>
-                </div>
-                <div class="col-lg-3 about-text">
-                    <div class="card" style="width: 100%">
-                        <img src="./img/member/18.png" class="card-img-top" alt="...">
                     </div>
                 </div>
                 <div class="col-lg-3 about-text">

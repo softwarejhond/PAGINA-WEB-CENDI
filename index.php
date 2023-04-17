@@ -923,7 +923,7 @@ include 'convenios.php';
     </script>
     <script>
     $(document).ready(function() {
-        $("#info").modal();
+        $("#").modal();
     });
     </script>
 
