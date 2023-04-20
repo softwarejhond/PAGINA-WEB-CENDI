@@ -111,7 +111,7 @@
                 </div>
                 <div class="col-md-6 col-lg-3">
                     <div class="member">
-                        <div class="member"><img src="img/icons/pasteur.jpg" alt="Fenalco" width="150px">
+                        <div class="member"><img src="img/icons/pasteur.jpg" alt="Fenalco" width="250px">
 
                         </div>
                     </div>
@@ -119,7 +119,7 @@
                 </div>
                 <div class="col-md-6 col-lg-3">
                     <div class="member">
-                        <div class="member"><img src="img/icons/hospital.png" alt="Fenalco" width="150px">
+                        <div class="member"><img src="img/icons/hospital.png" alt="Fenalco" width="250px">
 
                         </div>
                     </div>
