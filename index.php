@@ -763,7 +763,7 @@ include 'convenios.php';
                 <div class="modal-content">
                     <div class="modal-header">
                         <h5 class="modal-title" id="exampleModalLabel"><i class="fa fa-exclamation"></i> ACCEDE A
-                            NUESTROS CURSOS <i class="fa fa-exclamation"></i> </h5>
+                            NUESTROS DIPLOMADOS <i class="fa fa-exclamation"></i> </h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close"
                             title="Cerrar"></button>
                         <span aria-hidden="true">&times;</span>
@@ -774,18 +774,13 @@ include 'convenios.php';
                         <div class="container">
                             <div class="row">
 
-                                <div class="col-lg-4">
-                                    <a href="https://fondos.sapiencia.gov.co/convocatorias/acceso/index.php/Acceso_controller/fc_cargarvista?id=26&id_ruta=118" target="_blank"><img src="img//modals/curso1.png"  alt="Acceder" width="100%"
-                                    title="Ingresar"></a>
+                                <div class="col col-lg-6">
+                                  <iframe src="/img/modals/DERECHO SINDICAL (3).pdf" width="500px"  height="700px"></iframe>
                                 </div>
-                                <div class="col-lg-4">
-                                    <a href="https://fondos.sapiencia.gov.co/convocatorias/acceso/index.php/Acceso_controller/fc_cargarvista?id=26&id_ruta=119" target="_blank"><img src="img//modals/curso2.png"  alt="Acceder" width="100%"
-                                    title="Ingresar"></a>
+                                <div class="col col-lg-6">
+                                   <iframe src="/img/modals/DERECHO SINDICAL (3).pdf" width="500px"  height="700px"></iframe>
                                 </div>
-                                <div class="col-lg-4">
-                                    <a href="https://fondos.sapiencia.gov.co/convocatorias/acceso/index.php/Acceso_controller/fc_cargarvista?id=26&id_ruta=121" target="_blank"><img src="img//modals/curso3.png"  alt="Acceder" width="100%"
-                                    title="Ingresar"></a>
-                                </div>
+                               
                             </div>
                         </div>
                         <div class="container">
@@ -905,7 +900,7 @@ include 'convenios.php';
     </script>
     <script>
     $(document).ready(function() {
-        $("#").modal();
+        $("#info").modal();
     });
     </script>
 
