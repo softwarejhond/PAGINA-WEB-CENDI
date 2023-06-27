@@ -722,7 +722,7 @@ include 'convenios.php';
                             <div class="row">
 
                                 <div class="col-lg-12">
-                                    <a href="https://moodle.cendi.fundacionview.org" target="_blank"><img
+                                    <a href="https://cendi.kratylo.online/" target="_blank"><img
                                             src="img/icons/webAndroid.gif" alt="Acceder" width="250px"
                                             title="Ingresar"></a>
                                     <a href="https://site2.q10.com/login?ReturnUrl=%2F&aplentId=c866b1f7-b5a4-4146-a6d5-eda3de6bdea9"
@@ -778,7 +778,7 @@ include 'convenios.php';
                                   <iframe src="/img/modals/DERECHO SINDICAL (3).pdf" width="500px"  height="700px"></iframe>
                                 </div>
                                 <div class="col col-lg-6">
-                                   <iframe src="/img/modals/DERECHO SINDICAL (3).pdf" width="500px"  height="700px"></iframe>
+                                   <iframe src="/img/modals/DERECHO SINDICAL (4).pdf" width="500px"  height="700px"></iframe>
                                 </div>
                                
                             </div>
