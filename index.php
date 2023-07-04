@@ -505,7 +505,7 @@
             <div class="row">
                 <div class="col-md-6 event-item">
                     <div class="event-thumb">
-                        <img src="img/sliders/tecnicos.jpg" alt="tecnicos" t>
+                        <img src="img/sliders/p1.png" alt="tecnicos" height="400px">
                         <div class="event-date">
                             <span>PRE-INSCRIPCIONES TÉCNICOS</span>
                         </div>
@@ -520,7 +520,7 @@
                 </div>
                 <div class="col-md-6 event-item">
                     <div class="event-thumb">
-                        <img src="img/sliders/bachilleres.jpg" alt="bachilleres">
+                        <img src="img/sliders/p2.png" alt="bachilleres" height="400px">
                         <div class="event-date">
                             <span>PRE-INSCRIPCIONES BACHILLERATO</span>
                         </div>
@@ -733,7 +733,7 @@ include 'convenios.php';
                                         target="_blank"><img src="img/icons/qtecnicos.gif"
                                             alt="Botón Q10 para bachillerato" width="250px"
                                             title="Ingresar al Q10 para estudiantes de programas técnicos"></a>
-                                    <a href="https://cendi.kurve.digital/" target="_blank"><img
+                                    <a href="https://campus.cendiacademico.edu.co/" target="_blank"><img
                                             src="img/icons/campus.gif" alt="Ingreso Kurve" width="250px"
                                             title="Ingresar al Moodle programa talento especializado"></a>
 
@@ -900,7 +900,7 @@ include 'convenios.php';
     </script>
     <script>
     $(document).ready(function() {
-        $("#info").modal();
+        $("#").modal();
     });
     </script>
 
