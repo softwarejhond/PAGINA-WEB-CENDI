@@ -420,7 +420,7 @@
     </section>
     <!-- seccion de material de apoyo termina -->
     <!-- Seccion de contadores inicias -->
-    <section class="fact-section spad set-bg" data-setbg="img/sliders/bachilleres.jpg">
+    <section class="fact-section spad set-bg" data-setbg="img/sliders/p1.png">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 col-lg-12 fact">
