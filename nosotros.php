@@ -27,7 +27,7 @@
 	<section class="about-section spad pt-0">
 		<div class="container">
 			<div class="section-title text-center">
-				<h3>BIENVENIDOS A CORPORACACIÓN CENDI</h3>
+				<h3>BIENVENIDOS A CENDI</h3>
 				<p>CENDI LIDERES EN EDUCACIÓN</p>
 			</div>
 			<div class="row">
@@ -50,8 +50,7 @@
 						Secretaría de Educación.
 						<br><br>
 						Actualizamos permanentemente los programas para corresponder a la Ley 
-						General de Educación (115/94) y su Decreto Reglamentario No. 4904 de 16 de 
-						Diciembre de 2009.
+						General de Educación (115/94) y su Decreto Reglamentario No. 1075 del 26 de mayo de 2015.
 						<br><br>
 						
 						Somos líderes en la convivencia en paz y en la formación de alumnos competentes 

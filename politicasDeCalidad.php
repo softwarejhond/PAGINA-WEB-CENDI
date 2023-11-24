@@ -66,7 +66,7 @@
                                     <i class="fa fa-check-square-o" style="color: red;"></i> Lograr la satisfacción de nuestros clientes buscando cubrir sus expectativas, entre lo que se ofrece y lo que se pr ctica.
                                     <br>
                                     <br>
-                                    <i class="fa fa-check-square-o" style="color: red;"></i> Ofrecer procesos administrativos orientados hacia el mejoramiento continuo, a través de la asignación de los recursos necesarios, que permitan satisfacer la Comunidad.
+                                    <i class="fa fa-check-square-o" style="color: red;"></i> Ofrecer procesos administrativos orientados hacia el mejoramiento continuo y la efectividad en el SGC de la corporación.
                                     <br>
                                     <br>
                                     <i class="fa fa-check-square-o" style="color: red;"></i> Tener profesionales con conocimientos, habilidades y actitudes capaces de mejorar la convivencia y contribuir al desarrollo de la sociedad.

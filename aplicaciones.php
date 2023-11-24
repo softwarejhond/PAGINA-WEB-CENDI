@@ -1,13 +1,15 @@
-<div id="click" onclick="AFMenu()">
-  <i class="fas fa-plus fa-3x p-3" id="btn"></i>
+<div id="click" onclick="AFMenu()" class="p-3">
+  <i class="fa-sharp fa-solid fa-bars fa-bounce" id="btn"></i>
 </div>
+
 <div id="menu">
+  
   <a class="ico" href="https://site3.q10.com/login?ReturnUrl=%2F&aplentId=d0e037d5-22c3-4082-b55e-d30628819936" target="_blank" data-toggle="tooltip" data-placement="right" title="Q10 PARA TÉCNICOS"><i class="fa-brands fa-quora"></i><i class="fa-solid fa-1"></i><i class="fa-solid fa-0"></i></a>
   <a class="ico" href="https://moodle.cendi.fundacionview.org/" target="_blank" data-toggle="tooltip" data-placement="right" title="APLICACIONES WEB Y ANDROID"><i class="fa-brands fa-android"></i></a>
   <a class="ico" href="https://cendi.kurve.digital/" target="_blank" data-toggle="tooltip" data-placement="right" title="CAMPUS VIRTUAL"><i class="fa-solid fa-rocket"></i></a>
   <a class="ico" href="https://site2.q10.com/login?ReturnUrl=%2F&aplentId=c866b1f7-b5a4-4146-a6d5-eda3de6bdea9" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Q10 PARA BACHILLERATO"><i class="fa-brands fa-quora"></i><i class="fa-solid fa-1"></i><i class="fa-solid fa-0"></i></a>
-  <a class="ico" href="#" data-toggle="modal" data-target="#pqrsModal"><i class="fa-solid fa-circle-question"></i></a>
-  <a class="ico" href="#"></a>
+  <a class="ico" href="#" data-toggle="modal" data-target="#pqrsModal" data-toggle="tooltip" data-placement="bottom" title="PQRS"><i class="fa-solid fa-circle-question"></i></a>
+
 </div>
 <style>
 #btn{
@@ -134,6 +136,14 @@ content:'Servicios';
   border-color: #020031 transparent transparent transparent;
   top:-10px;
 }
+@font-face {
+  font-family: neon;
+  src: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/707108/neon.ttf);
+}
+
+
+
+
 </style>
 <script>
     var i = 0;

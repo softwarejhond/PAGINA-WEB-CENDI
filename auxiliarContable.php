@@ -42,9 +42,9 @@
                         <br>
                         <br>
                         <div class="row">
-                            <div class="col-lg-12 about-text">
+                            <div class="col-lg-12  about-text">
                                 <div class="row">
-                                    <div class="col-4">
+                                    <div class="col-lg-4 col-md-4 col-sm-12">
                                         <div class="list-group" id="list-tab" role="tablist">
                                             <a class="list-group-item list-group-item-action active" id="list-home-list"
                                                 data-toggle="list" href="#egreso" role="tab" aria-controls="home">PERFIL
@@ -58,15 +58,13 @@
                                             <a class="list-group-item list-group-item-action" id="list-settings-list"
                                                 data-toggle="list" href="#basicos" role="tab"
                                                 aria-controls="settings">MÓDULOS BÁSICOS</a>
+                                        
                                             <a class="list-group-item list-group-item-action" id="list-settings-list"
-                                                data-toggle="list" href="#especificos" role="tab"
-                                                aria-controls="settings">MÓDULOS ESPECÍFICOS</a>
-                                            <a class="list-group-item list-group-item-action" id="list-settings-list"
-                                                data-toggle="list" href="#transversal" role="tab"
-                                                aria-controls="settings">MÓDULOS TRANSVERSALES</a>
+                                                data-toggle="list" href="#obligatorios" role="tab"
+                                                aria-controls="settings">MÓDULOS OBLIGATORIOS</a>
                                         </div>
                                     </div>
-                                    <div class="col-8">
+                                    <div class="col-lg-8 col-md-8 col-sm-12">
                                         <div class="tab-content" id="nav-tabContent">
                                             <div class="tab-pane fade show active" id="egreso" role="tabpanel"
                                                 aria-labelledby="list-home-list" style="text-align: justify;">
@@ -128,59 +126,61 @@
                                                     Empresarismo.
                                                 </ul>
                                             </div>
-                                            <div class="tab-pane fade" id="especificos" role="tabpanel"
+                                            <div class="tab-pane fade" id="obligatorios" role="tabpanel"
                                                 aria-labelledby="list-settings-list" style="text-align: justify;">
-                                                <h3>MÓDULOS ESPECÍFICOS:</h3>
+                                                <h3>MÓDULOS OBLIGATORIOS:</h3>
                                                 <br>
                                                 <ul class="about-list">
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Estados
-                                                    Financieros y Ajustes.
-                                                </ul>
-                                            </div>
-                                            <div class="tab-pane fade" id="transversal" role="tabpanel"
-                                                aria-labelledby="list-settings-list" style="text-align: justify;">
-                                                <h3>MÓDULOS TRANSVERSALES:</h3>
-                                                <br>
-                                                <ul class="about-list">
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Informática I (Word, Digitación y Acces).
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Informática II (Excel).
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Informática III (Paquete Contable).
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Elaborar Documentos.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Archivo de Documentos.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Legislación Tributaria.
-                                                    <br>
-                                                    <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Matemática Financiera.
+                                                    <div class="row">
+                                                        <div class="col-lg-6 col-md-6 col-sm-12">
+                                                        <i class="fa fa-check-square-o" style="color: red;"></i> Archivo.
                                                     <br>
                                                     <br>
                                                     <i class="fa fa-check-square-o" style="color: red;"></i> Contabilidad General.
                                                     <br>
                                                     <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Costos y Presupuestos.
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Legislación Tributaria.
                                                     <br>
                                                     <br>
                                                     <i class="fa fa-check-square-o" style="color: red;"></i> Legislación Laboral.
                                                     <br>
                                                     <br>
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Matemática Financiera.
+                                                    <br>
+                                                    <br>
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Costos y Presupuestos.
+                                                    <br>
+                                                    <br>
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Estados Financieros y Ajustes..
+                                                    <br>
+                                                    <br>
+                                                        </div>
+                                                        <div class="col-lg-6 col-md-6 col-sm-12">
+                                                        <i class="fa fa-check-square-o" style="color: red;"></i> Elaborar Documentos.
+                                                    <br>
+                                                    <br>
                                                     <i class="fa fa-check-square-o" style="color: red;"></i> Organización Documental.
                                                     <br>
                                                     <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Asesorías de Practica.
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Informática I.
                                                     <br>
                                                     <br>
-                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Práctica Externa.
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Informática II.
                                                     <br>
                                                     <br>
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Informática III.
+                                                    <br>
+                                                    <br>
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Asesoría de Práctica.
+                                                    <br>
+                                                    <br>
+                                                    <i class="fa fa-check-square-o" style="color: red;"></i> Práctica externa.
+                                                    <br>
+                                                    <br>
+                                                            </div>
+                                                    </div>
+                                                    
+                                                  
                                                 </ul>
                                             </div>
                                         </div>
@@ -194,12 +194,12 @@
                             TÉCNICO LABORAL POR COMPETENCIAS COMO AUXILIAR CONTABLE <br>
                             NO CONDUCE A TITULO PROFESIONAL<br>
                             Certiﬁcación CELAC en Norma Técnica Colombiana NTC 5581 y NTC 5555.<br>
-                            Resolución SENA 002122 de 2 de Octubre de 2012<br>
+                            Resolución SENA para contrato de Aprendizaje.<br>
                             Sujeto a cambios según politicas institucionales y normatividad legal vigente.<br>
                             Supervisada por Secretaría de Educación de Medellín. <br>
                             <img src="img/icons/logo-sena.png" alt="logo sena" style="padding: 5px;">
                             <img src="img/icons/mejores.png" alt="mejores" style="padding: 5px;">
-                            <img src="img/icons/celac-adm.png" alt="celac" style="padding: 5px;">
+                            <img src="img/logosCelac/celac-Iso9001-ntc555-ntc-5581.png" alt="celac" style="padding: 5px;" width="250px">
                         </h5>
                     </div>
 

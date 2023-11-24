@@ -96,26 +96,7 @@
                         <img src="./img/member/1.png" class="card-img-top" alt="...">
                     </div>
                 </div>
-                <div class="col-lg-3 about-text">
-                    <div class="card" style="width: 100%">
-                        <img src="./img/member/7.png" class="card-img-top" alt="...">
-                    </div>
-                </div>
-                <div class="col-lg-3 about-text">
-                    <div class="card" style="width: 100%">
-                        <img src="./img/member/8.png" class="card-img-top" alt="...">
-                    </div>
-                </div>
-                <div class="col-lg-3 about-text">
-                    <div class="card" style="width: 100%">
-                        <img src="./img/member/11.png" class="card-img-top" alt="...">
-                    </div>
-                </div>
-                <div class="col-lg-3 about-text">
-                    <div class="card" style="width: 100%">
-                        <img src="./img/member/9.png" class="card-img-top" alt="...">
-                    </div>
-                </div>
+              
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
                         <img src="./img/member/15.png" class="card-img-top" alt="...">

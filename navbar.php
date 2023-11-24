@@ -19,7 +19,7 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="nosotros.php">Corporación CENDI</a>
-                    <a class="dropdown-item" href="politicasDeCalidad.php">Política de calidad</a>
+                    <a class="dropdown-item" href="politicasDeCalidad.php">SGC</a>
                     <a class="dropdown-item" href="trabajeConNosotros.php">Trabaje con nosotros</a>
                     <a class="dropdown-item" href="/DOCS/MANUAL DE CONVIVENCIA ACTUALIZADO 2020.pdf"
                         download="Manual de convicencia CENDI 2020 Bachiller">Manual de convivencia Bachillerato</a>
