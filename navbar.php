@@ -89,6 +89,7 @@
                 </div>
             </li>
             <li><a href="contact.php">CONTÁCTENOS</a></li>
+            <li><a href="egresados.php">EGRESADOS</a></li>
         </ul>
     </div>
 </nav>

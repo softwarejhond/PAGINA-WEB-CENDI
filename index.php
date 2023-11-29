@@ -34,13 +34,15 @@
                 <li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
-
+                <li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
                
             </ol>
             <div class="carousel-inner">
         
-          
-                <div class="carousel-item active">
+            <div class="carousel-item active">
+                    <img src="img/carrusel/navidad 2.png" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item ">
                     <img src="img/carrusel/portadas.png" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item ">
