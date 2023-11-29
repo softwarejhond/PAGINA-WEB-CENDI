@@ -27,7 +27,7 @@
 	<section class="about-section spad pt-0">
 		<div class="container">
 			<div class="section-title text-center">
-				<h3>BIENVENIDOS A POLÍTICA DE CALIDAD</h3>
+				<h3>BIENVENIDOS A CENDI</h3>
 				<p>"EDUCANDO EN LA RESPONSABILIDAD, EDUCAMOS PARA LA LIBERTAD"</p>
 			</div>
 			<div class="row">
@@ -54,7 +54,7 @@
 
                             </div>
                             <div class="tab-pane fade" id="politicas" role="tabpanel" aria-labelledby="list-profile-list"style="text-align: justify;">
-                                CENDI como nstitución formadora de Educación para el Trabajo y el Desarrollo Humano se 
+                                CENDI como institución formadora de Educación para el Trabajo y el Desarrollo Humano se 
                                 compromete con sus clientes en mantener la EXCELENCIA Y ESTABILIDAD EN LOS PROGRAMAS 
                                 QUE OFRECE y lo fundamenta en la práctica de los siguientes principios:
                                 <br>

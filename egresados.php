@@ -32,7 +32,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 text-center">
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSedGtshqX3Nl8rLlcfLecdWnuE3cO3GOYGaAgrmQUeCnNDjXQ/viewform" target="_blank" class="btn btn-primary text-center">ENCUESTA PARA ACTUALIZACIÓN DE INFORMACIÓN DEL EGRESADO</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSedGtshqX3Nl8rLlcfLecdWnuE3cO3GOYGaAgrmQUeCnNDjXQ/viewform" target="_blank" class="btn btn-primary text-cente w-100" style="height: auto";>ENCUESTA PARA ACTUALIZACIÓN DE INFORMACIÓN DEL EGRESADO</a>
                     <br>
                 <br>
                 <img src="img/competencias.png" alt="competencias" width="100%">

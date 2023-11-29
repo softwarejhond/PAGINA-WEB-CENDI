@@ -145,8 +145,7 @@
                             <br>
 
                             <img src="img/icons/mejores.png" alt="mejores" style="padding: 5px;">
-                            <img src="img/logosCelac/celac-Iso9001-ntc555-ntc-5666.png" alt="celac" style="padding: 5px;" width="250px">
-
+                         
                         </h5>
                     </div>
 
