@@ -35,12 +35,12 @@
                 <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
-               
+
             </ol>
             <div class="carousel-inner">
-        
-            <div class="carousel-item active">
-                    <img src="img/carrusel/navidad 2.png" class="d-block w-100" alt="...">
+
+                <div class="carousel-item active">
+                    <img src="img/carrusel/back.png" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item ">
                     <img src="img/carrusel/portadas.png" class="d-block w-100" alt="...">
@@ -537,8 +537,8 @@
     <?php
     include 'convenios.php';
     ?>
-     <!-- Seccion de aplicaciones inicia-->
-     <?php
+    <!-- Seccion de aplicaciones inicia-->
+    <?php
     include 'aplicaciones.php';
     ?>
     <!-- Seccion de convenios finaliza-->
@@ -589,7 +589,7 @@
     </div>
     <!-- termina front end del login -->
     <!-- inicia preinscripcion tecnicos -->
-    
+
     <div class="modal fade bd-example-modal-lg" id="preTec" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg">
             <div class="modal-content">
@@ -673,7 +673,7 @@
                             <div class="row">
 
                                 <div class="col-lg-12">
-                              
+
                                 </div>
 
                             </div>
@@ -684,9 +684,9 @@
                                 <h5 style="color: white;text-align: center;">INFORMACIÓN IMPORTANTE</h5>
                             </div>
                             <a href="https://cendi.kratylo.online/" target="_blank"><img src="img/icons/webAndroid.gif" alt="Acceder" width="250px" title="Ingresar"></a>
-                                    <a href="https://site2.q10.com/login?ReturnUrl=%2F&aplentId=c866b1f7-b5a4-4146-a6d5-eda3de6bdea9" target="_blank"><img src="img/icons/qbachiller.gif" alt="Botón Q10 para bachillerato" width="250px" title="Ingresar al Q10 para estudiantes de bachillerato"></a>
-                                    <a href="https://site3.q10.com/login?ReturnUrl=%2F&aplentId=d0e037d5-22c3-4082-b55e-d30628819936" target="_blank"><img src="img/icons/qtecnicos.gif" alt="Botón Q10 para bachillerato" width="250px" title="Ingresar al Q10 para estudiantes de programas técnicos"></a>
-                                    <a href="https://campus.cendiacademico.edu.co/" target="_blank"><img src="img/icons/campus.gif" alt="Ingreso Kurve" width="250px" title="Ingresar al Moodle programa talento especializado"></a>
+                            <a href="https://site2.q10.com/login?ReturnUrl=%2F&aplentId=c866b1f7-b5a4-4146-a6d5-eda3de6bdea9" target="_blank"><img src="img/icons/qbachiller.gif" alt="Botón Q10 para bachillerato" width="250px" title="Ingresar al Q10 para estudiantes de bachillerato"></a>
+                            <a href="https://site3.q10.com/login?ReturnUrl=%2F&aplentId=d0e037d5-22c3-4082-b55e-d30628819936" target="_blank"><img src="img/icons/qtecnicos.gif" alt="Botón Q10 para bachillerato" width="250px" title="Ingresar al Q10 para estudiantes de programas técnicos"></a>
+                            <a href="https://campus.cendiacademico.edu.co/" target="_blank"><img src="img/icons/campus.gif" alt="Ingreso Kurve" width="250px" title="Ingresar al Moodle programa talento especializado"></a>
 
                             </p>
                         </div>
@@ -697,36 +697,6 @@
     </div>
 
 
-
-    <div class="modal fade bd-example-modal-lg" id="info" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-        <div class="modal-dialog" style="text-align: center; max-width:1140px">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">FELICES FIESTAS</h5>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close" title="Cerrar"></button>
-                    <span aria-hidden="true">&times;</span>
-                    </button>
-
-                </div>
-                <div class="modal-body lg">
-                <video poster="img/miniatura.png" controls  autoplay class="w-100">
-        <!-- Añade varios formatos del video para la compatibilidad con navegadores -->
-        <source src="img/navidad.mp4" type="video/mp4" class="w-100">
-        <source src="img/video.webm" type="video/webm" class="w-100">
-        
-        Tu navegador no admite la reproducción de videos.
-    </video>
-                    <div class="container">
-                        <div class="modal-footer">
-                            <h5 style="color: white;text-align: center;">INFORMACIÓN IMPORTANTE</h5>
-                        </div>
-
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
 
     <div class="modal fade" id="pqrsModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
