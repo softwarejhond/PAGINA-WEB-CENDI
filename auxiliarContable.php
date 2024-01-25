@@ -199,7 +199,7 @@
                             Supervisada por Secretaría de Educación de Medellín. <br>
                             <img src="img/icons/logo-sena.png" alt="logo sena" style="padding: 5px;">
                             <img src="img/icons/mejores.png" alt="mejores" style="padding: 5px;">
-                            <img src="img/logosCelac/celac-Iso9001-ntc555-ntc-5581.png" alt="celac" style="padding: 5px;" width="250px">
+                            <img src="img/logosCelac/celac-auxiliar-contable.png" alt="celac" style="padding: 5px;" width="250px">
                         </h5>
                     </div>
 

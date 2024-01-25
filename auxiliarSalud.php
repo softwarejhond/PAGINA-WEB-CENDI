@@ -156,7 +156,7 @@
 						<br>
                             <img src="img/icons/logo-sena.png" alt="logo sena" style="padding: 5px;">
                             <img src="img/icons/mejores.png" alt="mejores" style="padding: 5px;">
-                            <img src="img/icons/celac-adm.png" alt="celac" style="padding: 5px;">
+                            <img src="img/logosCelac/celac-auxiliar-salud.png" alt="celac" style="padding: 5px;" width="250px">
                         </h5>
 					</div>
 				
