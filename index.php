@@ -27,60 +27,30 @@
                 <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
 
             </ol>
             <div class="carousel-inner">
 
                 <div class="carousel-item active">
-                    <img src="img/carrusel/back.png" class="d-block w-100" alt="...">
+                    <img src="img/carrusel/1.jpg" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item ">
-                    <img src="img/carrusel/portadas.png" class="d-block w-100" alt="...">
+                    <img src="img/carrusel/2.jpg" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item ">
-                    <img src="img/carrusel/admin.png" class="d-block w-100" alt="...">
+                    <img src="img/carrusel/3.jpg" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
-                    <img src="img/carrusel/mercadeo.png" class="d-block w-100" alt="...">
+                    <img src="img/carrusel/4.jpg" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
-                    <img src="img/carrusel/contable.png" class="d-block w-100" alt="...">
+                    <img src="img/carrusel/5.jpg" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
-                    <img src="img/carrusel/farmacia.png" class="d-block w-100" alt="...">
+                    <img src="img/carrusel/6.jpg" class="d-block w-100" alt="...">
                 </div>
-                <div class="carousel-item">
-                    <img src="img/carrusel/gerencia.png" class="d-block w-100" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="img/carrusel/hotel.png" class="d-block w-100" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="img/carrusel/recursos.png" class="d-block w-100" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="img/carrusel/ingles.png" class="d-block w-100" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="img/carrusel/secretaria.png" class="d-block w-100" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="img/carrusel/salud.png" class="d-block w-100" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="img/carrusel/sistemas.png" class="d-block w-100" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="img/carrusel/software.png" class="d-block w-100" alt="...">
-                </div>
+
+
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -661,8 +631,11 @@
             <div class="modal-dialog modal-lg" style="text-align: center;">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel"><i class="fa fa-exclamation"></i> ACCEDE A
-                            NUESTRAS PLATAFORMAS<i class="fa fa-exclamation"></i> </h5>
+                        <h5 class="modal-title" id="exampleModalLabel">
+                            <i class="fa fa-exclamation"></i>
+                            ACCEDE A NUESTRAS PLATAFORMAS
+                            <i class="fa fa-exclamation"></i>
+                        </h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close" title="Cerrar"></button>
                         <span aria-hidden="true">&times;</span>
                         </button>
@@ -679,14 +652,63 @@
                             </div>
                         </div>
                         <div class="container">
-
-                            <div class="modal-footer">
-                                <h5 style="color: white;text-align: center;">INFORMACIÓN IMPORTANTE</h5>
-                            </div>
                             <a href="https://cendi.kratylo.online/" target="_blank"><img src="img/icons/webAndroid.gif" alt="Acceder" width="250px" title="Ingresar"></a>
                             <a href="https://site2.q10.com/login?ReturnUrl=%2F&aplentId=c866b1f7-b5a4-4146-a6d5-eda3de6bdea9" target="_blank"><img src="img/icons/qbachiller.gif" alt="Botón Q10 para bachillerato" width="250px" title="Ingresar al Q10 para estudiantes de bachillerato"></a>
                             <a href="https://site3.q10.com/login?ReturnUrl=%2F&aplentId=d0e037d5-22c3-4082-b55e-d30628819936" target="_blank"><img src="img/icons/qtecnicos.gif" alt="Botón Q10 para bachillerato" width="250px" title="Ingresar al Q10 para estudiantes de programas técnicos"></a>
                             <a href="https://campus.cendiacademico.edu.co/" target="_blank"><img src="img/icons/campus.gif" alt="Ingreso Kurve" width="250px" title="Ingresar al Moodle programa talento especializado"></a>
+
+                            <div class="modal-footer">
+                                <h5 style="color: white;text-align: center;">INFORMACIÓN IMPORTANTE</h5>
+                            </div>
+
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="text-center">
+        <div class="modal fade bd-example-modal-lg" id="info" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg" style="text-align: center;">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">
+                            <i class="fa fa-exclamation"></i>
+                            CERTIFÍCATE INTERNACIONALMENTE
+                            <i class="fa fa-exclamation"></i>
+                        </h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close" title="Cerrar"></button>
+                        <span aria-hidden="true">&times;</span>
+                        </button>
+
+                    </div>
+                    <div class="modal-body lg">
+                        <div class="container">
+                            <div class="row">
+
+                                <div class="col-lg-12">
+
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="container">
+                            <div class="row">
+                                <div class="col col-md-12 col-sm-12 col-lg-12 p-2">
+                                    <a href="https://trabajarporelmundo.org/certificados-de-ingles/#google_vignette" target="_blank"><img src="https://trabajarporelmundo.org/wp-content/uploads/2021/02/Trabajar-por-el-Mundo-Arti%CC%81culos-Blog-7-1.jpg.webp" alt="Acceder" width="80%" title="Ingresar"></a>
+
+                                </div>
+                                <div class="col col-md-12 col-sm-12 col-lg-12 p-2">
+                                    <a href="https://www.britishcouncil.cl/examen/ielts/blog/tipos-certificacion-ielts" target="_blank"><img src="https://www.britishcouncil.cl/sites/default/files/styles/bc-landscape-1280x720/public/website-vietnam_00571.jpg?itok=iJlSy2CW" alt="Botón Q10 para bachillerato" width="80%" title="Ingresar al Q10 para estudiantes de bachillerato"></a>
+
+                                </div>
+                            </div>
+
+                            <div class="modal-footer">
+                                <h5 style="color: white;text-align: center;">HAZ CLICK EN LA IMAGEN</h5>
+                            </div>
 
                             </p>
                         </div>
