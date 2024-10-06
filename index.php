@@ -25,32 +25,20 @@
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
 
             </ol>
             <div class="carousel-inner">
 
                 <div class="carousel-item active">
-                    <img src="img/carrusel/1.jpg" class="d-block w-100" alt="...">
+                    <img src="img/carrusel/1001.png" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item ">
-                    <img src="img/carrusel/2.jpg" class="d-block w-100" alt="...">
+                    <img src="img/carrusel/2002.png" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item ">
-                    <img src="img/carrusel/3.jpg" class="d-block w-100" alt="...">
+                    <img src="img/carrusel/3003.png" class="d-block w-100" alt="...">
                 </div>
-                <div class="carousel-item">
-                    <img src="img/carrusel/4.jpg" class="d-block w-100" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="img/carrusel/5.jpg" class="d-block w-100" alt="...">
-                </div>
-                <div class="carousel-item">
-                    <img src="img/carrusel/6.jpg" class="d-block w-100" alt="...">
-                </div>
-
+            
 
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
