@@ -15,6 +15,7 @@
 
     <!-- Menu encabezado inicia -->
     <?php include 'navbar.php'; ?>
+
     <!-- Menu encabezado finaliza-->
 
     <!-- Inicio del carrusel de imagenes-->
@@ -403,7 +404,7 @@
                         <i class="ti-crown"></i>
                     </div>
                     <div class="fact-text">
-                        <h2>34</h2>
+                        <h2>35</h2>
                         <p>AÑOS</p>
                     </div>
                 </div>
@@ -630,6 +631,7 @@
         <div class="modal fade bd-example-modal-lg" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
             <div class="modal-dialog modal-lg" style="text-align: center;">
                 <div class="modal-content">
+
                     <div class="modal-header">
                         <h5 class="modal-title" id="exampleModalLabel">
                             <i class="fa fa-exclamation"></i>
@@ -652,6 +654,7 @@
                             </div>
                         </div>
                         <div class="container">
+                            <?php include 'halloween.php'; ?>
                             <a href="https://www.campusdigital.cendiacademico.edu.co/login/index.php" target="_blank"><img src="img/icons/campus.gif" alt="Acceder" width="250px" title="Ingresar a Rutas Formativas en Tecnologías para la creatividad y el soporte tecnológico – Industrias Creativas 4ri"></a>
                             <a href="https://site2.q10.com/login?ReturnUrl=%2F&aplentId=c866b1f7-b5a4-4146-a6d5-eda3de6bdea9" target="_blank"><img src="img/icons/qbachiller.gif" alt="Botón Q10 para bachillerato" width="250px" title="Ingresar al Q10 para estudiantes de bachillerato"></a>
                             <a href="https://site3.q10.com/login?ReturnUrl=%2F&aplentId=d0e037d5-22c3-4082-b55e-d30628819936" target="_blank"><img src="img/icons/qtecnicos.gif" alt="Botón Q10 para bachillerato" width="250px" title="Ingresar al Q10 para estudiantes de programas técnicos"></a>
@@ -734,7 +737,7 @@
                     <form id="form">
                         <div class="form-group">
                             <label for="codigo">Radicado de la PQRS</label>
-                            <input type="text" class="form-control" name="codigo" id="codigo">
+                            <input type="text" class="form-control" name="codigo" id="codigo" readonly>
                         </div>
                         <div class="form-group">
                             <label for="tipo">Tipo de solicitud</label>
@@ -782,8 +785,8 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <label for="tecnology">Dirección de respuesta: </label>
-                            <input type="text" class="form-control" name="tecnology" id="tecnology">
+                            <label for="tecnology">Dirección de correo electrónico de respuesta: </label>
+                            <input type="email" class="form-control" name="tecnology" id="tecnology">
                         </div>
                         <div class="form-group">
                             <label for="phone">Número de teléfono:</label>
