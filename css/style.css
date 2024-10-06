@@ -83,7 +83,7 @@ ol {
 	color: white;
 }
 .close:hover{
-	color: red;
+	color: F08006;
 }
 .modal-footer{
 	background-color: #020031;
@@ -369,11 +369,11 @@ ol {
 }
 
 .main-menu li a:hover {
-	background-color:red;
+	background-color:#F08006;
 }
 
 .main-menu li.active a {
-	background-color:red;
+	background-color:#F08006;
 }
 .dropdown-menu{
 background-color: #020031;
@@ -489,7 +489,7 @@ color: #f5f5f5;
 }
 
 .hero-slider .owl-dots .owl-dot.active {
-	background:red;
+	background:F08006;
 }
 
 /*---------------------
@@ -699,7 +699,7 @@ color: #f5f5f5;
 .course-item .course-thumb .course-cat span {
 	min-width: 150px;
 	bottom: 0;
-	background:red;
+	background:F08006;
 	padding: 10px 15px;
 	text-align: center;
 	font-size: 13px;
@@ -769,7 +769,7 @@ color: #f5f5f5;
 }
 
 .fact-text h2 {
-	color: rgb(248, 0, 0);
+	color: #F08006;
 	font-weight: 400;
 }
 
@@ -779,6 +779,9 @@ color: #f5f5f5;
 	color: #fff;
 }
 
+.naranja{
+	background-color: #F08006;
+}
 /*---------------------
 	Event Section
 -----------------------*/
@@ -807,7 +810,7 @@ color: #f5f5f5;
 .event-item .event-thumb .event-date span {
 	min-width: 170px;
 	bottom: 0;
-	background: red;
+	background: #F08006;
 	padding: 10px 15px;
 	text-align: center;
 	font-size: 16px;
@@ -846,6 +849,9 @@ color: #f5f5f5;
 }
 
 .event-item .event-info .event-readmore i {
+	color: #f6783a;
+}
+.color-naranja{
 	color: #f6783a;
 }
 
@@ -1851,7 +1857,7 @@ color: #f5f5f5;
 	}
 	.main-menu li a:hover {
 		background-color: transparent;
-		color:red;
+		color:F08006;
 	}
 	.main-menu li.active a {
 		background-color: transparent;

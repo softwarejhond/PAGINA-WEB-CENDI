@@ -36,7 +36,7 @@
 	<link rel="stylesheet" href="css/magnific-popup.css" />
 	<link rel="stylesheet" href="css/animate.css" />
 	<link rel="stylesheet" href="css/owl.carousel.css" />
-	<link rel="stylesheet" href="css/style.css?v=1" />
+	<link rel="stylesheet" href="css/style.css?v=5" />
 	<!-- Importamos libreria de JQuery -->
 	<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
 	<!-- Script para abrir modal automaticamente inicia -->

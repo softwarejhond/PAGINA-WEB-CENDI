@@ -4,7 +4,7 @@
 				<!-- widget -->
 				<div class="col-sm-6 col-lg-3 footer-widget">
 					<div class="about-widget" style="text-align: center;">
-						<img src="img/icons/logoNew.png" alt="logo" width="50%">
+						<img src="img/icons/newLog.png" alt="logo" width="50%">
 						<h5 style="color: white;text-align: center;">"EDUCANDO EN LA RESPONSABILIDAD, EDUCAMOS PARA LA
 							LIBERTAD"</h5>
 
@@ -35,7 +35,7 @@
 								llamados programas
 								Técnicos de Formación para el trabajo y el desarrollo humano.
 							</p>
-							<a href="nosotros.html">Leer más</a>
+							<a href="nosotros.php">Leer más</a>
 
 						</li>
 

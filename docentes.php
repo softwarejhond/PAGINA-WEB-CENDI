@@ -171,21 +171,7 @@
                         <img src="./img/teachers/28.png" class="card-img-top" alt="...">
                     </div>
                 </div>
-                <div class="col-lg-3 about-text">
-                    <div class="card" style="width: 100%">
-                        <img src="./img/teachers/29.png" class="card-img-top" alt="...">
-                    </div>
-                </div>
-                <div class="col-lg-3 about-text">
-                    <div class="card" style="width: 100%">
-                        <img src="./img/teachers/30.png" class="card-img-top" alt="...">
-                    </div>
-                </div>
-                <div class="col-lg-3 about-text">
-                    <div class="card" style="width: 100%">
-                        <img src="./img/teachers/31.png" class="card-img-top" alt="...">
-                    </div>
-                </div>
+          
                
              
             </div>

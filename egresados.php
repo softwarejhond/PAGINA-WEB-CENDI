@@ -32,10 +32,10 @@
             </div>
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 text-center">
-                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSedGtshqX3Nl8rLlcfLecdWnuE3cO3GOYGaAgrmQUeCnNDjXQ/viewform" target="_blank" class="btn btn-primary text-cente w-100" style="height: auto";>ENCUESTA PARA ACTUALIZACIÓN DE INFORMACIÓN DEL EGRESADO</a>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSedGtshqX3Nl8rLlcfLecdWnuE3cO3GOYGaAgrmQUeCnNDjXQ/viewform" target="_blank" class="btn btn-primary text-cente w-100" style="height: auto" ;>ENCUESTA PARA ACTUALIZACIÓN DE INFORMACIÓN DEL EGRESADO</a>
                     <br>
-                <br>
-                <img src="img/competencias.png" alt="competencias" width="100%">
+                    <br>
+                    <img src="img/competencias.png" alt="competencias" width="100%">
                 </div>
                 <br>
                 <br>
@@ -43,7 +43,7 @@
                     <h3 class="text-center">Te invitamos a certificar tus competencias laborales en el SENA.</h3>
                     <p style="text-align: justify; color: black; font-size: 16px;">
                         <br>
-                        <b style="text-align: center;color: red;font-size: 21px;">¿Qué es Evaluación y Certificación de Competencias Laborales?"</b>
+                        <b style="text-align: center;color:#F08006;font-size: 21px;">¿Qué es Evaluación y Certificación de Competencias Laborales?"</b>
                         <br><br>
                         La Evaluación y Certificación de Competencias Laborales es un proceso gratuito que el SENA ofrece para reconocer las capacidades de las personas en términos de conocimientos, destrezas y habilidades (aprendizajes previos) propios de un oficio u ocupación, sin importar donde, cuando y como las hayan obtenido, con el fin de facilitar la vinculación laboral y empleabilidad. Este proceso es diferente a la formación profesional que ofrece el SENA.
                         <br><br>Es un proceso voluntario y concertado entre la Entidad pública evaluadora y certificadora de competencias (SENA) y el candidato, en el que se debe demostrar el desempeño en la función laboral que realiza, teniendo como referente las Normas Sectoriales de Competencia Laboral.

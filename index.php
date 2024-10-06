@@ -78,11 +78,11 @@
             <div class="row">
                 <div class="col-lg-7 col-md-6">
                     <div class="big-icon">
-                        <i class="fa fa-graduation-cap" style="color: red;"></i>
+                        <i class="fa fa-graduation-cap" style="color: #F08006;"></i>
                     </div>
                     <div class="counter-content">
                         <h2>MATRICÚLATE AHORA Y ENTRA AL MUNDO LABORAL</h2>
-                        <p><i class="fa fa-star" style="color: red;"></i>Cendi te prepara para la cuarta revolución
+                        <p><i class="fa fa-star" style="color: #F08006;"></i>Cendi te prepara para la cuarta revolución
                             industrial</p>
 
                     </div>
@@ -114,7 +114,7 @@
                     <div class="service-content">
                         <h4>Técnico Laboral como Auxiliar contable</h4>
                         <p style="text-align: justify;">¡Consulta por más información ahora!</p>
-                        <a href="auxiliarContable.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: red;"></i></a>
+                        <a href="auxiliarContable.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: #F08006;"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 service-item">
@@ -124,7 +124,7 @@
                     <div class="service-content">
                         <h4>Técnico Laboral como Auxiliar Administrativo</h4>
                         <p style="text-align: justify;">¡Consulta por más información ahora!</p>
-                        <a href="auxiliarAdm.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: red;"></i></a>
+                        <a href="auxiliarAdm.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: #F08006;"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 service-item">
@@ -134,7 +134,7 @@
                     <div class="service-content">
                         <h4>Técnico Laboral en Secretaria(o) Médica (o)</h4>
                         <p style="text-align: justify;">¡Consulta por más información ahora!</p>
-                        <a href="auxiliarMedico.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: red;"></i></a>
+                        <a href="auxiliarMedico.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: #F08006;"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 service-item">
@@ -144,7 +144,7 @@
                     <div class="service-content">
                         <h4>Técnico Laboral como Secretaria General</h4>
                         <p style="text-align: justify;">¡Consulta por más información ahora!</p>
-                        <a href="auxiliarSecretariado.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: red;"></i></a>
+                        <a href="auxiliarSecretariado.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: #F08006;"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 service-item">
@@ -154,7 +154,7 @@
                     <div class="service-content">
                         <h4>Técnico Laboral como Auxiliar en Recursos Humanos</h4>
                         <p style="text-align: justify;">¡Consulta por más información ahora!</p>
-                        <a href="auxiliarRecursoHumanos.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: red;"></i></a>
+                        <a href="auxiliarRecursoHumanos.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: #F08006;"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 service-item">
@@ -164,7 +164,7 @@
                     <div class="service-content">
                         <h4>Técnico Laboral Auxiliar en Servicios Farmacéuticos</h4>
                         <p style="text-align: justify;">¡Consulta por más información ahora!</p>
-                        <a href="auxiliarFarmaceutico.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: red;"></i></a>
+                        <a href="auxiliarFarmaceutico.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: #F08006;"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 service-item">
@@ -174,7 +174,7 @@
                     <div class="service-content">
                         <h4>Técnico Laboral Auxiliar Administrativo en Salud</h4>
                         <p style="text-align: justify;">¡Consulta por más información ahora!</p>
-                        <a href="auxiliarSalud.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: red;"></i></a>
+                        <a href="auxiliarSalud.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: #F08006;"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 service-item">
@@ -184,7 +184,7 @@
                     <div class="service-content">
                         <h4>Técnico Laboral como Auxiliar en Servicio al Cliente y Telemercadeo</h4>
                         <p style="text-align: justify;"> ¡Consulta por más información ahora!</p>
-                        <a href="auxiliarServicioCliente.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: red;"></i></a>
+                        <a href="auxiliarServicioCliente.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: #F08006;"></i></a>
                     </div>
                 </div>
 
@@ -195,7 +195,7 @@
                     <div class="service-content">
                         <h4>Técnico laboral como auxiliar de sistemas informáticos </h4>
                         <p style="text-align: justify;">¡Consulta por más información ahora!</p>
-                        <a href="auxiliarSistemas.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: red;"></i></a>
+                        <a href="auxiliarSistemas.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: #F08006;"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 service-item">
@@ -205,7 +205,7 @@
                     <div class="service-content">
                         <h4>Técnico Laboral como Empleado de Recepción Hotelera</h4>
                         <p style="text-align: justify;">¡Consulta por más información ahora!</p>
-                        <a href="recepcionhotelera.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: red;"></i></a>
+                        <a href="recepcionhotelera.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: #F08006;"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 service-item">
@@ -215,7 +215,7 @@
                     <div class="service-content">
                         <h4>Técnico Laboral como Asistente en Desarrollo de Software</h4>
                         <p style="text-align: justify;">¡Consulta por más información ahora!</p>
-                        <a href="desarrolloSoftware.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: red;"></i></a>
+                        <a href="desarrolloSoftware.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: #F08006;"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 service-item">
@@ -225,7 +225,7 @@
                     <div class="service-content">
                         <h4>Conocimientos Académicos en inglés</h4>
                         <p style="text-align: justify;">¡Consulta por más información ahora!</p>
-                        <a href="ingles.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: red;"></i></a>
+                        <a href="ingles.php" class="event-readmore" title="Dar click">VER MÁS <i class="fa fa-angle-double-right" style="color: #F08006;"></i></a>
                     </div>
                 </div>
 
@@ -248,20 +248,20 @@
                     </div>
                     <div class="enroll-list text-white">
                         <div class="enroll-list-item">
-                            <span style="color: red;">1</span>
+                            <span style="color: #F08006;">1</span>
                             <h5>Acceso plataforma Q10</h5>
-                            <a href="http://corporacioncendi.q10academico.com/" style="cursor: pointer;"><button type="button" class="btn btn-danger">Ingresar ahora</button></a>
+                            <a href="http://corporacioncendi.q10academico.com/" style="cursor: pointer;"><button type="button" class="btn naranja">Ingresar ahora</button></a>
                         </div>
                         <div class="enroll-list-item">
-                            <span style="color: red;">2</span>
+                            <span style="color: #F08006;">2</span>
                             <h5>Pre_inscripciones - Colegio</h5>
-                            <a href="https://site2.q10.com/Preinscripcion?aplentId=c866b1f7-b5a4-4146-a6d5-eda3de6bdea9" style="cursor: pointer;"><button type="button" class="btn btn-danger">Ingresar
+                            <a href="https://site2.q10.com/Preinscripcion?aplentId=c866b1f7-b5a4-4146-a6d5-eda3de6bdea9" style="cursor: pointer;"><button type="button" class="btn naranja">Ingresar
                                     ahora</button></a>
                         </div>
                         <div class="enroll-list-item">
-                            <span style="color: red;">3</span>
+                            <span style="color: #F08006;">3</span>
                             <h5>Ofertas Laborales - Colegio</h5>
-                            <a href="https://site2.q10.com/Ofertalaboral/Crear?aplentId=c866b1f7-b5a4-4146-a6d5-eda3de6bdea9" style="cursor: pointer;"><button type="button" class="btn btn-danger">Ingresar
+                            <a href="https://site2.q10.com/Ofertalaboral/Crear?aplentId=c866b1f7-b5a4-4146-a6d5-eda3de6bdea9" style="cursor: pointer;"><button type="button" class="btn naranja">Ingresar
                                     ahora</button></a>
                         </div>
                     </div>
@@ -275,19 +275,19 @@
                     </div>
                     <div class="enroll-list text-white">
                         <div class="enroll-list-item">
-                            <span style="color: red;">1</span>
+                            <span style="color: #F08006;">1</span>
                             <h5>Acceso plataforma Q10 técnicos</h5>
                             <a href="https://site3.q10.com/login?ReturnUrl=%2F&aplentId=d0e037d5-22c3-4082-b55e-d30628819936" style="cursor: pointer;"><button type="button" class="btn btn-info">Ingresar
                                     ahora</button></a>
                         </div>
                         <div class="enroll-list-item">
-                            <span style="color: red;">2</span>
+                            <span style="color: #F08006;">2</span>
                             <h5>Pre_inscripciones - técnicos</h5>
                             <a href="https://site3.q10.com/Preinscripcion?aplentId=d0e037d5-22c3-4082-b55e-d30628819936" style="cursor: pointer;"><button type="button" class="btn btn-info">Ingresar
                                     ahora</button></a>
                         </div>
                         <div class="enroll-list-item">
-                            <span style="color: red;">3</span>
+                            <span style="color: #F08006;">3</span>
                             <h5>Ofertas Laborales - técnicos</h5>
                             <a href="https://site3.q10.com/Ofertalaboral/Crear?aplentId=d0e037d5-22c3-4082-b55e-d30628819936" style="cursor: pointer;"><button type="button" class="btn btn-info">Ingresar
                                     ahora</button></a>
@@ -467,7 +467,7 @@
                     <div class="event-info">
                         <h4>Preparate que grandes retos vendrán ahora que elegiste tu ocupación</h4>
 
-                        <a href="" class="event-readmore" data-toggle="modal" data-target="#preTec" title="Dar click">PREINSCRIBIR AHORA<i class="fa fa-angle-double-right" style="color: red;"></i></a>
+                        <a href="" class="event-readmore" data-toggle="modal" data-target="#preTec" title="Dar click">PREINSCRIBIR AHORA<i class="fa fa-angle-double-right" style="color: #F08006;"></i></a>
                     </div>
                 </div>
                 <div class="col-md-6 event-item">
@@ -482,7 +482,7 @@
                             al éxito con la profesión que elijas
                         </h4>
 
-                        <a href="" class="event-readmore" data-toggle="modal" data-target="#preBach" title="Dar click">PREINSCRIBIR AHORA<i class="fa fa-angle-double-right" style="color: red;"></i></a>
+                        <a href="" class="event-readmore" data-toggle="modal" data-target="#preBach" title="Dar click">PREINSCRIBIR AHORA<i class="fa fa-angle-double-right" style="color: #F08006;"></i></a>
                     </div>
                 </div>
             </div>
@@ -652,7 +652,7 @@
                             </div>
                         </div>
                         <div class="container">
-                            <a href="https://cendi.kratylo.online/" target="_blank"><img src="img/icons/webAndroid.gif" alt="Acceder" width="250px" title="Ingresar"></a>
+                            <a href="https://www.campusdigital.cendiacademico.edu.co/login/index.php" target="_blank"><img src="img/icons/campus.gif" alt="Acceder" width="250px" title="Ingresar a Rutas Formativas en Tecnologías para la creatividad y el soporte tecnológico – Industrias Creativas 4ri"></a>
                             <a href="https://site2.q10.com/login?ReturnUrl=%2F&aplentId=c866b1f7-b5a4-4146-a6d5-eda3de6bdea9" target="_blank"><img src="img/icons/qbachiller.gif" alt="Botón Q10 para bachillerato" width="250px" title="Ingresar al Q10 para estudiantes de bachillerato"></a>
                             <a href="https://site3.q10.com/login?ReturnUrl=%2F&aplentId=d0e037d5-22c3-4082-b55e-d30628819936" target="_blank"><img src="img/icons/qtecnicos.gif" alt="Botón Q10 para bachillerato" width="250px" title="Ingresar al Q10 para estudiantes de programas técnicos"></a>
                             <a href="https://campus.cendiacademico.edu.co/" target="_blank"><img src="img/icons/campus.gif" alt="Ingreso Kurve" width="250px" title="Ingresar al Moodle programa talento especializado"></a>
