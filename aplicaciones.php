@@ -5,10 +5,14 @@
 <div id="menu">
 
   <a class="ico" href="https://site3.q10.com/login?ReturnUrl=%2F&aplentId=d0e037d5-22c3-4082-b55e-d30628819936" target="_blank" data-toggle="tooltip" data-placement="right" title="Q10 PARA TÉCNICOS"><i class="fa-brands fa-quora"></i><i class="fa-solid fa-1"></i><i class="fa-solid fa-0"></i></a>
+  <a class="ico" href="https://api.whatsapp.com/send/?phone=573128785556&text=Me+gustar%C3%ADa+saber+sobre+alg%C3%BAn+programa&type=phone_number&app_absent=0" target="_blank" data-placement="bottom" title="WHATSAPP"><i class="fa-brands fa-whatsapp"></i></a>
+
   <!--<a class="ico" href="https://moodle.cendi.fundacionview.org/" target="_blank" data-toggle="tooltip" data-placement="right" title="APLICACIONES WEB Y ANDROID"><i class="fa-brands fa-android"></i></a>-->
+
   <a class="ico" href="https://www.campusdigital.cendiacademico.edu.co/login/index.php" target="_blank" data-toggle="tooltip" data-placement="right" title="CAMPUS VIRTUAL"><i class="fa-solid fa-rocket"></i></a>
   <a class="ico" href="https://site2.q10.com/login?ReturnUrl=%2F&aplentId=c866b1f7-b5a4-4146-a6d5-eda3de6bdea9" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Q10 PARA BACHILLERATO"><i class="fa-brands fa-quora"></i><i class="fa-solid fa-1"></i><i class="fa-solid fa-0"></i></a>
   <a class="ico" href="#" data-toggle="modal" data-target="#pqrsModal" data-toggle="tooltip" data-placement="bottom" title="PQRS"><i class="fa-solid fa-circle-question"></i></a>
+  <a class="ico" href="https://www.instagram.com/cendi.medellin/" target="_blank" data-placement="bottom" title="INSTAGRAM"><i class="fa-brands fa-instagram"></i></a>
 
 </div>
 <style>

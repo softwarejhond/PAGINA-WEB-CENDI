@@ -39,7 +39,7 @@
 	<link rel="stylesheet" href="css/style.css?v=5" />
 	<!-- Importamos libreria de JQuery -->
 	<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
-	   <?php include 'halloween.php'; ?>
+	  
 	<!-- Script para abrir modal automaticamente inicia -->
 	<script>
 		$(document).ready(function () {

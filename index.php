@@ -53,13 +53,7 @@
     </section>
     <!-- finaliza el carrusel de imagenes -->
 
-    <div class="icon-bar">
-        <a href="https://es-la.facebook.com/InstitutoCENDI/" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a>
-        <a href="https://www.instagram.com/cendi.medellin/?hl=es-la" target="_blank" class="instagram"><i class="fa fa-instagram"></i></a>
-        <a href="https://wa.me/573128785556?text=Me%20gustaría%20saber%20sobre%20algún%20programa" target="_blank" class="whhatsapp"><i class="fa fa-whatsapp"></i></a>
 
-
-    </div>
 
     <!-- Counter section  -->
     <section class="counter-section">
@@ -642,7 +636,6 @@
                             </div>
                         </div>
                         <div class="container">
-                            <?php include 'halloween.php'; ?>
                             <a href="https://www.campusdigital.cendiacademico.edu.co/login/index.php" target="_blank"><img src="img/icons/campus.gif" alt="Acceder" width="250px" title="Ingresar a Rutas Formativas en Tecnologías para la creatividad y el soporte tecnológico – Industrias Creativas 4ri"></a>
                             <a href="https://site2.q10.com/login?ReturnUrl=%2F&aplentId=c866b1f7-b5a4-4146-a6d5-eda3de6bdea9" target="_blank"><img src="img/icons/qbachiller.gif" alt="Botón Q10 para bachillerato" width="250px" title="Ingresar al Q10 para estudiantes de bachillerato"></a>
                             <a href="https://site3.q10.com/login?ReturnUrl=%2F&aplentId=d0e037d5-22c3-4082-b55e-d30628819936" target="_blank"><img src="img/icons/qtecnicos.gif" alt="Botón Q10 para bachillerato" width="250px" title="Ingresar al Q10 para estudiantes de programas técnicos"></a>
