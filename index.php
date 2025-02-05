@@ -38,7 +38,7 @@
                 <div class="carousel-item ">
                     <img src="img/carrusel/3003.png" class="d-block w-100" alt="...">
                 </div>
-            
+
 
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -660,7 +660,7 @@
                     <div class="modal-header">
                         <h5 class="modal-title" id="exampleModalLabel">
                             <i class="fa fa-exclamation"></i>
-                            CERTIFÍCATE INTERNACIONALMENTE
+                            BOYACA Y CUNDINAMARCA TRABAJA CON NOSOTROS
                             <i class="fa fa-exclamation"></i>
                         </h5>
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close" title="Cerrar"></button>
@@ -669,29 +669,86 @@
 
                     </div>
                     <div class="modal-body lg">
-                        <div class="container">
-                            <div class="row">
 
-                                <div class="col-lg-12">
-
-                                </div>
-
-                            </div>
-                        </div>
                         <div class="container">
                             <div class="row">
                                 <div class="col col-md-12 col-sm-12 col-lg-12 p-2">
-                                    <a href="https://trabajarporelmundo.org/certificados-de-ingles/#google_vignette" target="_blank"><img src="https://trabajarporelmundo.org/wp-content/uploads/2021/02/Trabajar-por-el-Mundo-Arti%CC%81culos-Blog-7-1.jpg.webp" alt="Acceder" width="80%" title="Ingresar"></a>
-
-                                </div>
-                                <div class="col col-md-12 col-sm-12 col-lg-12 p-2">
-                                    <a href="https://www.britishcouncil.cl/examen/ielts/blog/tipos-certificacion-ielts" target="_blank"><img src="https://www.britishcouncil.cl/sites/default/files/styles/bc-landscape-1280x720/public/website-vietnam_00571.jpg?itok=iJlSy2CW" alt="Botón Q10 para bachillerato" width="80%" title="Ingresar al Q10 para estudiantes de bachillerato"></a>
-
+                                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                                        <div class="carousel-inner">
+                                            <div class="carousel-item active">
+                                                <img src="img/TRABAJOS_CENDI/1.png" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/TRABAJOS_CENDI/2.png" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/TRABAJOS_CENDI/3.png" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/TRABAJOS_CENDI/4.png" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/TRABAJOS_CENDI/5.png" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/TRABAJOS_CENDI/6.png" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/TRABAJOS_CENDI/7.png" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/TRABAJOS_CENDI/8.png" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/TRABAJOS_CENDI/9.png" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/TRABAJOS_CENDI/10.png" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/TRABAJOS_CENDI/11.png" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/TRABAJOS_CENDI/12.png" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/TRABAJOS_CENDI/13.png" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/TRABAJOS_CENDI/14.png" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/TRABAJOS_CENDI/15.png" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/TRABAJOS_CENDI/16.png" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/TRABAJOS_CENDI/17.png" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/TRABAJOS_CENDI/18.png" class="d-block w-100" alt="...">
+                                            </div>
+                                            <div class="carousel-item">
+                                                <img src="img/TRABAJOS_CENDI/19.png" class="d-block w-100" alt="...">
+                                            </div>
+                                           
+                                           
+                                        </div>
+                                        <button class="carousel-control-prev" type="button" data-target="#carouselExampleControls" data-slide="prev">
+                                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                            <span class="sr-only">Previous</span>
+                                        </button>
+                                        <button class="carousel-control-next" type="button" data-target="#carouselExampleControls" data-slide="next">
+                                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                            <span class="sr-only">Next</span>
+                                        </button>
+                                    </div>
                                 </div>
                             </div>
 
                             <div class="modal-footer">
-                                <h5 style="color: white;text-align: center;">HAZ CLICK EN LA IMAGEN</h5>
+                                <h5 style="color: white;text-align: center;">Envia tu hoja de vida a: reclutamiento.UT@poliandino.edu.co</h5>
                             </div>
 
                             </p>
