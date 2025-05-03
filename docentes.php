@@ -34,7 +34,7 @@
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
                         <img src="./img/teachers/1.png" class="card-img-top" alt="...">
-                    </div>
+                    </div> <br>
                 </div>
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
@@ -54,7 +54,7 @@
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
                         <img src="./img/teachers/5.png" class="card-img-top" alt="...">
-                    </div>
+                    </div> <br>
                 </div>
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
@@ -74,7 +74,7 @@
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
                         <img src="./img/teachers/9.png" class="card-img-top" alt="...">
-                    </div>
+                    </div> <br>
                 </div>
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
@@ -94,7 +94,7 @@
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
                         <img src="./img/teachers/13.png" class="card-img-top" alt="...">
-                    </div>
+                    </div> <br>
                 </div>
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
@@ -109,7 +109,7 @@
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
                         <img src="./img/teachers/16.png" class="card-img-top" alt="...">
-                    </div>
+                    </div> <br>
                 </div>
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
@@ -124,7 +124,7 @@
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
                         <img src="./img/teachers/19.png" class="card-img-top" alt="...">
-                    </div>
+                    </div> <br>
                 </div>
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
@@ -139,7 +139,7 @@
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
                         <img src="./img/teachers/22.png" class="card-img-top" alt="...">
-                    </div>
+                    </div> <br>
                 </div>
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">

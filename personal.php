@@ -33,17 +33,12 @@
             <div class="row">
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
-                        <img src="./img/member/20.png" class="card-img-top" alt="...">
-                    </div>
-                </div>
+                        <img src="./img/member/1.png" class="card-img-top" alt="..."> 
+                    </div> <br>
+                </div> 
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
-                        <img src="./img/member/4.png" class="card-img-top" alt="...">
-                    </div>
-                </div>
-                <div class="col-lg-3 about-text">
-                    <div class="card" style="width: 100%">
-                        <img src="./img/member/14.png" class="card-img-top" alt="...">
+                        <img src="./img/member/2.png" class="card-img-top" alt="...">
                     </div>
                 </div>
                 <div class="col-lg-3 about-text">
@@ -53,27 +48,32 @@
                 </div>
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
-                        <img src="./img/member/21.png" class="card-img-top" alt="...">
-                    </div>
-                </div>
-                <div class="col-lg-3 about-text">
-                    <div class="card" style="width: 100%">
-                        <img src="./img/member/12.png" class="card-img-top" alt="...">
-                    </div>
+                        <img src="./img/member/4.png" class="card-img-top" alt="...">
+                    </div> 
                 </div>
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
                         <img src="./img/member/5.png" class="card-img-top" alt="...">
+                    </div> <br>
+                </div>
+                <div class="col-lg-3 about-text">
+                    <div class="card" style="width: 100%">
+                        <img src="./img/member/6.png" class="card-img-top" alt="...">
                     </div>
                 </div>
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
-                        <img src="./img/member/16.png" class="card-img-top" alt="...">
+                        <img src="./img/member/7.png" class="card-img-top" alt="...">
                     </div>
                 </div>
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
-                        <img src="./img/member/13.png" class="card-img-top" alt="...">
+                        <img src="./img/member/8.png" class="card-img-top" alt="...">
+                    </div>
+                </div>
+                <div class="col-lg-3 about-text">
+                    <div class="card" style="width: 100%">
+                        <img src="./img/member/9.png" class="card-img-top" alt="...">
                     </div>
                 </div>
                 <div class="col-lg-3 about-text">
@@ -83,31 +83,49 @@
                 </div>
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
-                        <img src="./img/member/6.png" class="card-img-top" alt="...">
+                        <img src="./img/member/11.png" class="card-img-top" alt="...">
                     </div>
                 </div>
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
-                        <img src="./img/member/2.png" class="card-img-top" alt="...">
-                    </div>
-                </div>
+                        <img src="./img/member/12.png" class="card-img-top" alt="...">
+                    </div> <br>
+                </div>  
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
-                        <img src="./img/member/1.png" class="card-img-top" alt="...">
+                        <img src="./img/member/13.png" class="card-img-top" alt="...">
                     </div>
-                </div>
-              
+                </div> 
+                <div class="col-lg-3 about-text">
+                    <div class="card" style="width: 100%">
+                        <img src="./img/member/14.png" class="card-img-top" alt="...">
+                    </div>
+                </div> 
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
                         <img src="./img/member/15.png" class="card-img-top" alt="...">
                     </div>
-                </div>
+                </div> 
+                <div class="col-lg-3 about-text">
+                    <div class="card" style="width: 100%">
+                        <img src="./img/member/16.png" class="card-img-top" alt="...">
+                    </div> <br>
+                </div> 
                 <div class="col-lg-3 about-text">
                     <div class="card" style="width: 100%">
                         <img src="./img/member/17.png" class="card-img-top" alt="...">
                     </div>
-                </div>
-               
+                </div> 
+                <div class="col-lg-3 about-text">
+                    <div class="card" style="width: 100%">
+                        <img src="./img/member/18.png" class="card-img-top" alt="...">
+                    </div>
+                </div> 
+                <div class="col-lg-3 about-text">
+                    <div class="card" style="width: 100%">
+                        <img src="./img/member/19.png" class="card-img-top" alt="...">
+                    </div>
+                </div>             
              
             </div>
         </div>
